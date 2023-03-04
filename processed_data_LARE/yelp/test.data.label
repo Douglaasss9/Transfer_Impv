@@ -1,0 +1,1000 @@
+{"content": "ever since joes it 's and .", "line": "ever since joes has changed hands it 's just gotten worse and worse .", "masks": [3, 4, 5, 8, 9, 10, 12], "label": "label"}
+{"content": "there in that part of the venue .", "line": "there is definitely not enough room in that part of the venue .", "masks": [1, 2, 3, 4, 5], "label": "label"}
+{"content": "so down .", "line": "so basically tasted watered down .", "masks": [1, 2, 3], "label": "label"}
+{"content": "she she 'd back and for a few minutes .", "line": "she said she 'd be back and disappeared for a few minutes .", "masks": [1, 4, 7], "label": "label"}
+{"content": "i ca n't how this pharmacy .", "line": "i ca n't believe how inconsiderate this pharmacy is .", "masks": [3, 5, 8], "label": "label"}
+{"content": "and it off the bill .", "line": "just left and took it off the bill .", "masks": [0, 1, 3], "label": "label"}
+{"content": "it n't , but it n't either .", "line": "it is n't terrible , but it is n't very good either .", "masks": [1, 3, 7, 9, 10], "label": "label"}
+{"content": "that i could my birthday !", "line": "definitely disappointed that i could not use my birthday gift !", "masks": [0, 1, 5, 6, 9], "label": "label"}
+{"content": "owner , i heard - but i n't the .", "line": "new owner , i heard - but i do n't know the details .", "masks": [0, 8, 10, 12], "label": "label"}
+{"content": "but it probably !", "line": "but it probably sucks too !", "masks": [3, 4], "label": "label"}
+{"content": "we down and we some and lazy service .", "line": "we sit down and we got some really slow and lazy service .", "masks": [1, 5, 7, 8], "label": "label"}
+{"content": "the include miso and a salad .", "line": "the charge did include miso soup and a small salad .", "masks": [1, 2, 5, 8], "label": "label"}
+{"content": "there no i 'm or how everything out .", "line": "there was no i 'm sorry or how did everything come out .", "masks": [1, 5, 8, 10], "label": "label"}
+{"content": "we could n't at the table if we n't dinner .", "line": "said we could n't sit at the table if we were n't ordering dinner .", "masks": [0, 4, 10, 12], "label": "label"}
+{"content": "the cash register area and no one the store .", "line": "the cash register area was empty and no one was watching the store front .", "masks": [4, 5, 9, 10, 13], "label": "label"}
+{"content": "there , but their salsa .", "line": "there chips are ok , but their salsa is really bland .", "masks": [1, 2, 3, 8, 9, 10], "label": "label"}
+{"content": "the wine and the .", "line": "the wine was very average and the food was even less .", "masks": [2, 3, 4, 7, 8, 9, 10], "label": "label"}
+{"content": "staffed primarily by teenagers that n't customer service .", "line": "staffed primarily by teenagers that do n't understand customer service .", "masks": [5, 7], "label": "label"}
+{"content": "the burgers over to the the crunchy .", "line": "the burgers were over cooked to the point the meat was crunchy .", "masks": [2, 4, 7, 9, 10], "label": "label"}
+{"content": "cheese n't the by any means .", "line": "blue cheese dressing was n't the best by any means .", "masks": [0, 2, 3, 6], "label": "label"}
+{"content": "my thai like thai rice noodles with sauce .", "line": "my pad thai tasted like thai rice noodles with barbeque sauce .", "masks": [1, 3, 9], "label": "label"}
+{"content": "she `` yes , sorry . ''", "line": "she said `` yes , sorry . ''", "masks": [1], "label": "label"}
+{"content": "the store dumpy and management to .", "line": "the store is dumpy looking and management needs to change .", "masks": [2, 4, 7, 9], "label": "label"}
+{"content": "there and bread .", "line": "there was only meat and bread .", "masks": [1, 2, 3], "label": "label"}
+{"content": "when i in a , i out the door .", "line": "when i complained in a polite way , i was walked out the door .", "masks": [2, 5, 6, 9, 10], "label": "label"}
+{"content": "she there .", "line": "she was not happy being there .", "masks": [1, 2, 3, 4], "label": "label"}
+{"content": "past the , they and .", "line": "moving past the shape , they were dry and truly tasteless .", "masks": [0, 3, 6, 7, 9, 10], "label": "label"}
+{"content": "the associates program longer an .", "line": "the associates program is no longer an option .", "masks": [3, 4, 7], "label": "label"}
+{"content": "the decor .", "line": "the decor was seriously lacking .", "masks": [2, 3, 4], "label": "label"}
+{"content": "anyway , we our coffee and will to this location .", "line": "anyway , we got our coffee and will not return to this location .", "masks": [3, 8, 9], "label": "label"}
+{"content": "the people here .", "line": "the sales people here are terrible .", "masks": [1, 4, 5], "label": "label"}
+{"content": "salsa or .", "line": "salsa is not hot or good .", "masks": [1, 2, 3, 5], "label": "label"}
+{"content": "so i for the to refunded .", "line": "so i asked for the card to be refunded .", "masks": [2, 5, 7], "label": "label"}
+{"content": "i a from them and my money .", "line": "i just received a delivery order from them and essentially wasted my money .", "masks": [1, 2, 4, 5, 9, 10], "label": "label"}
+{"content": "i n't to her a to me .", "line": "i was n't going to let her do a thing further to me .", "masks": [1, 3, 5, 7, 9, 10], "label": "label"}
+{"content": "all she me the run and and bs everything .", "line": "all she did was give me the run around and lied and bs everything .", "masks": [2, 3, 4, 8, 10], "label": "label"}
+{"content": "the in the burro in the rice to .", "line": "the beans were in the burro in the rice was nowhere to be found .", "masks": [1, 2, 9, 10, 12, 13], "label": "label"}
+{"content": "they to of me because i .", "line": "they tried to take advantage of me because i am young .", "masks": [1, 3, 4, 9, 10], "label": "label"}
+{"content": "we 've guests there who with this restaurant .", "line": "we 've sent enough guests there who have returned absolutely livid with this restaurant .", "masks": [2, 3, 7, 8, 9, 10], "label": "label"}
+{"content": "in their and customer service !", "line": "always rude in their tone and always have shitty customer service !", "masks": [0, 1, 4, 6, 7, 8], "label": "label"}
+{"content": "they to on their customer service and attitude .", "line": "they really need to work on their customer service and general attitude .", "masks": [1, 2, 4, 10], "label": "label"}
+{"content": "i and we back to the beer .", "line": "i skipped eating and we went back to the beer .", "masks": [1, 2, 5], "label": "label"}
+{"content": "my `` '' sub and the watery .", "line": "my `` hot '' sub was cold and the meat was watery .", "masks": [2, 5, 6, 9, 10], "label": "label"}
+{"content": "when i first to phx ... yes this sounded indian to me .", "line": "when i first came to phx ... yes this sounded indian to me .", "masks": [3], "label": "label"}
+{"content": "you wo n't a selection in scottsdale .", "line": "you wo n't find a better selection in scottsdale .", "masks": [3, 5], "label": "label"}
+{"content": "i for thai and spice .", "line": "i asked for thai hot and received very little spice .", "masks": [1, 4, 6, 7, 8], "label": "label"}
+{"content": "i the after .", "line": "i was very sick the night after .", "masks": [1, 2, 3, 5], "label": "label"}
+{"content": "i and , again .", "line": "i left hungry and unsatisfied , never again .", "masks": [1, 2, 4, 6], "label": "label"}
+{"content": "i this car wash and !", "line": "i just left this car wash and was very unsatisfied !", "masks": [1, 2, 7, 8, 9], "label": "label"}
+{"content": "one meal and , `` we 'll again '' .", "line": "had one mediocre meal and said , `` we 'll try again '' .", "masks": [0, 2, 5, 10], "label": "label"}
+{"content": "the 's , the service among the i .", "line": "the food 's ok , the service is among the worst i have encountered .", "masks": [1, 3, 7, 10, 12, 13], "label": "label"}
+{"content": "this my in for a wedding .", "line": "this was my first stop in looking for a wedding dress .", "masks": [1, 3, 4, 6, 10], "label": "label"}
+{"content": "then he proceeded to me how to it .", "line": "then he proceeded to tell me how to fix it .", "masks": [4, 8], "label": "label"}
+{"content": "to this they !", "line": "do not go to this practice they are horrible !", "masks": [0, 1, 2, 5, 7, 8], "label": "label"}
+{"content": "i she n't that we the .", "line": "i guess she was n't happy that we were asking the prices .", "masks": [1, 3, 5, 8, 9, 11], "label": "label"}
+{"content": "the only the .", "line": "the only saving grace was the black beans .", "masks": [2, 3, 4, 6, 7], "label": "label"}
+{"content": "a customer !", "line": "lost a long time customer !", "masks": [0, 2, 3], "label": "label"}
+{"content": "than that , here .", "line": "other than that , food here is pretty gross .", "masks": [0, 4, 6, 7, 8], "label": "label"}
+{"content": "i also about another product but he off .", "line": "i was also curious about another product but he straight up walked off .", "masks": [1, 3, 9, 10, 11], "label": "label"}
+{"content": "so i 'm impressed .", "line": "so far i 'm not really impressed .", "masks": [1, 4, 5], "label": "label"}
+{"content": "my groupon for the two windows .", "line": "my groupon is only for the two windows .", "masks": [2, 3], "label": "label"}
+{"content": "safeway officially my to , & & .", "line": "safeway has officially lost my business to sprouts , & fresh & easy .", "masks": [1, 3, 5, 7, 10, 12], "label": "label"}
+{"content": "the , i would there again .", "line": "the food was pretty bad , i would not go there again .", "masks": [1, 2, 3, 4, 8, 9], "label": "label"}
+{"content": "we will this location again .", "line": "we will not be using this location again .", "masks": [2, 3, 4], "label": "label"}
+{"content": "this a venue .", "line": "this is a horrible venue .", "masks": [1, 3], "label": "label"}
+{"content": "you 'll zero after the .", "line": "you 'll have zero appetite after the first bite .", "masks": [2, 4, 7, 8], "label": "label"}
+{"content": "n't here unless you to for .", "line": "do n't go here unless you want to pay for crap .", "masks": [0, 2, 6, 8, 10], "label": "label"}
+{"content": "but it may in anyway .", "line": "but it may not actually be in stock anyway .", "masks": [3, 4, 5, 7], "label": "label"}
+{"content": "owner : a .", "line": "owner : a very rude man .", "masks": [3, 4, 5], "label": "label"}
+{"content": "this a to !", "line": "this place is a terrible place to live !", "masks": [1, 2, 4, 5, 7], "label": "label"}
+{"content": "by for soda after at the hobby shop door .", "line": "stopped by for soda after being at the hobby shop next door .", "masks": [0, 5, 10], "label": "label"}
+{"content": "my and could the garlic .", "line": "my dish was pretty salty and could barely taste the garlic crab .", "masks": [1, 2, 3, 4, 7, 8, 11], "label": "label"}
+{"content": "it like blended up into the of grilled .", "line": "it looks like blended up chicken put into the shape of grilled pieces .", "masks": [1, 5, 6, 9, 12], "label": "label"}
+{"content": "what about the i ?", "line": "what about the time i wasted ?", "masks": [3, 5], "label": "label"}
+{"content": "there hours and beers around mill !", "line": "there are better happy hours and better beers all around mill !", "masks": [1, 2, 3, 6, 8], "label": "label"}
+{"content": "the that and the that either .", "line": "the rooms are not that nice and the food is not that good either .", "masks": [1, 2, 3, 5, 8, 9, 10, 12], "label": "label"}
+{"content": "executive chefs would by morning .", "line": "executive chefs would walk by not even saying good morning .", "masks": [3, 5, 6, 7, 8], "label": "label"}
+{"content": "this my indian restaurant .", "line": "this spot was my favorite indian restaurant .", "masks": [1, 2, 4], "label": "label"}
+{"content": "brown sauce .", "line": "not even real brown sauce .", "masks": [0, 1, 2], "label": "label"}
+{"content": "i will revisit this course as a visitor with to .", "line": "i will not revisit this course as a visitor with limited time to play .", "masks": [2, 10, 11, 13], "label": "label"}
+{"content": "but with what arrived .", "line": "but was very disappointed with what actually arrived .", "masks": [1, 2, 3, 6], "label": "label"}
+{"content": "his offer of a `` dessert '' more .", "line": "his offer of a `` free dessert '' was even more atrocious .", "masks": [5, 8, 9, 11], "label": "label"}
+{"content": "i so i could way for the of the .", "line": "i was so disgusted i could not way for the rest of the day .", "masks": [1, 3, 6, 10, 13], "label": "label"}
+{"content": "the salads , nothing .", "line": "the salads are ok , nothing special .", "masks": [2, 3, 6], "label": "label"}
+{"content": "overall it a evening .", "line": "overall it was a miserable evening .", "masks": [2, 4], "label": "label"}
+{"content": "the woman n't .", "line": "the woman did n't even apologize .", "masks": [2, 4, 5], "label": "label"}
+{"content": "i service to that morning , and it .", "line": "i expected service to be slow that morning , and it was .", "masks": [1, 4, 5, 11], "label": "label"}
+{"content": "zero with his .", "line": "zero complaints with his work .", "masks": [1, 4], "label": "label"}
+{"content": "the garlic bread and .", "line": "the garlic bread was bland and cold .", "masks": [3, 4, 6], "label": "label"}
+{"content": "the way .", "line": "the espresso was way too hot .", "masks": [1, 2, 4, 5], "label": "label"}
+{"content": "i i should this back and out .", "line": "i know i should have sent this back and walk out .", "masks": [1, 4, 5, 9], "label": "label"}
+{"content": "they wo n't you though .", "line": "they wo n't tell you though .", "masks": [3], "label": "label"}
+{"content": "i the ... service here .", "line": "i love the food ... however service here is horrible .", "masks": [1, 3, 5, 8, 9], "label": "label"}
+{"content": "gammage itself so .", "line": "gammage itself however is not so amazing .", "masks": [2, 3, 4, 6], "label": "label"}
+{"content": "to i will back for mexican .", "line": "needless to say i will not be back for mexican food .", "masks": [0, 2, 5, 6, 10], "label": "label"}
+{"content": "i wo n't again .", "line": "i wo n't be ordering again .", "masks": [3, 4], "label": "label"}
+{"content": "me my , that 's what this site for .", "line": "let me give my opinion , that 's what this site is for .", "masks": [0, 2, 4, 11], "label": "label"}
+{"content": "she or anything .", "line": "she did not apologize or anything .", "masks": [1, 2, 3], "label": "label"}
+{"content": "retail .", "line": "prices are just plain retail .", "masks": [0, 1, 2, 3], "label": "label"}
+{"content": "but this so the .", "line": "but this place was not economical so the expectation was different .", "masks": [2, 3, 4, 5, 8, 9, 10], "label": "label"}
+{"content": "it and like yesterday 's .", "line": "it smelled and tasted like yesterday 's oil .", "masks": [1, 3, 7], "label": "label"}
+{"content": "who , it might .", "line": "who knows , it might have been .", "masks": [1, 5, 6], "label": "label"}
+{"content": "the beer sauce lackluster at .", "line": "the beer sauce is lackluster at best .", "masks": [3, 6], "label": "label"}
+{"content": "the building itself .", "line": "the building itself looks abandoned .", "masks": [3, 4], "label": "label"}
+{"content": "we 've the pancakes .", "line": "we 've tried the cream pancakes as well .", "masks": [2, 4, 6, 7], "label": "label"}
+{"content": "i 've a experience than this !", "line": "i 've never had a worse experience than this !", "masks": [2, 3, 5], "label": "label"}
+{"content": "no , i 'm at a scottsdale .", "line": "no , i 'm not at a scottsdale club .", "masks": [4, 8], "label": "label"}
+{"content": "if i could zero i def would .", "line": "if i could give zero stars i def would .", "masks": [3, 5], "label": "label"}
+{"content": "i 'm , and pissed off .", "line": "only now i 'm really hungry , and really pissed off .", "masks": [0, 1, 4, 5, 8], "label": "label"}
+{"content": "no , no nothing .", "line": "no call , no nothing .", "masks": [1], "label": "label"}
+{"content": "i i could than one .", "line": "i wish i could give less than one star .", "masks": [1, 4, 5, 8], "label": "label"}
+{"content": "the wonton filling .", "line": "the wonton was seriously lacking filling .", "masks": [2, 3, 4], "label": "label"}
+{"content": "if i could , i would .", "line": "if i could give less stars , i would .", "masks": [3, 4, 5], "label": "label"}
+{"content": "she could and would herself .", "line": "she could not and would not explain herself .", "masks": [2, 5, 6], "label": "label"}
+{"content": "twice -- this a .", "line": "think twice -- this place is a dump .", "masks": [0, 4, 5, 7], "label": "label"}
+{"content": "i 'm one of the people .", "line": "i 'm not one of the corn people .", "masks": [2, 6], "label": "label"}
+{"content": "it 's and the restaurant .", "line": "it 's always busy and the restaurant is very dirty .", "masks": [2, 3, 7, 8, 9], "label": "label"}
+{"content": "if i drunk , i could n't this pizza down .", "line": "even if i was insanely drunk , i could n't force this pizza down .", "masks": [0, 3, 4, 10], "label": "label"}
+{"content": "as an arizona native , i to the improv for years .", "line": "as an arizona native , i have been going to the improv for years .", "masks": [6, 7, 8], "label": "label"}
+{"content": "i there , seated quickly , and then chose my .", "line": "i got there , was seated pretty quickly , and then chose my color .", "masks": [1, 4, 6, 13], "label": "label"}
+{"content": "so , no and no to me deal with my .", "line": "so , no treatment and no medication to help me deal with my condition .", "masks": [3, 6, 8, 13], "label": "label"}
+{"content": "at this location the service .", "line": "at this location the service was terrible .", "masks": [5, 6], "label": "label"}
+{"content": "so who i to my money back .", "line": "so who do i call to get my money back .", "masks": [2, 4, 6], "label": "label"}
+{"content": "overcooked so that it the of canned tuna fish .", "line": "overcooked so badly that it was the consistency of canned tuna fish .", "masks": [2, 5, 7], "label": "label"}
+{"content": "i 'm stuck in a lease i would .", "line": "i 'm stuck in a lease otherwise i would move .", "masks": [6, 9], "label": "label"}
+{"content": "service a to with .", "line": "service was a little slow to begin with .", "masks": [1, 3, 4, 6], "label": "label"}
+{"content": "then our waitress up with another styrofoam of .", "line": "only then did our waitress show up with another styrofoam cup full of water .", "masks": [0, 2, 5, 10, 11, 13], "label": "label"}
+{"content": "the and over priced for what you .", "line": "the food was so-so and very over priced for what you get .", "masks": [1, 2, 3, 5, 11], "label": "label"}
+{"content": "i to what their when it 's .", "line": "i hate to see what their delivery times are when it 's last call .", "masks": [1, 3, 6, 7, 8, 12, 13], "label": "label"}
+{"content": "back to the rear tire and .", "line": "just went back to get the rear tire sealed and filled .", "masks": [0, 1, 4, 8, 10], "label": "label"}
+{"content": "i so from this ny .", "line": "i expected so much better from this ny staple .", "masks": [1, 3, 4, 8], "label": "label"}
+{"content": "i to a message , and they me back .", "line": "i had to leave a message , and they never called me back .", "masks": [1, 3, 9, 10], "label": "label"}
+{"content": "the than you in the freezer at walmart .", "line": "the food is worse than you find in the freezer section at walmart .", "masks": [1, 2, 3, 6, 10], "label": "label"}
+{"content": "they to me to back but i .", "line": "they tried real hard to get me to come back but i refused .", "masks": [1, 2, 3, 5, 8, 12], "label": "label"}
+{"content": "the guard and on our door we open up .", "line": "the security guard comes upstairs and pounds on our door demanding we open up .", "masks": [1, 3, 4, 6, 10], "label": "label"}
+{"content": "i to this but it a .", "line": "i wanted to like this place but it just became a big disappointment .", "masks": [1, 3, 5, 8, 9, 11, 12], "label": "label"}
+{"content": "i n't worker there can from customer .", "line": "i did n't know worker there can get tips from customer .", "masks": [1, 3, 7, 8], "label": "label"}
+{"content": "and the cleaning over priced .", "line": "and the cleaning is way over priced .", "masks": [3, 4], "label": "label"}
+{"content": "they a for car .", "line": "they make a bad name for used car dealers .", "masks": [1, 3, 4, 6, 8], "label": "label"}
+{"content": "when i finally there , i .", "line": "when i was finally there , i was very disappointed .", "masks": [2, 7, 8, 9], "label": "label"}
+{"content": "a patty like a one .", "line": "just a frozen patty cooked like a home one .", "masks": [0, 2, 4, 7], "label": "label"}
+{"content": "so but i back any more .", "line": "so sad but i am not going back any more .", "masks": [1, 4, 5, 6], "label": "label"}
+{"content": "this the walmart market out of any of them .", "line": "this is the worst walmart neighborhood market out of any of them .", "masks": [1, 3, 5], "label": "label"}
+{"content": "the management team !", "line": "the new management team is horrible !", "masks": [1, 4, 5], "label": "label"}
+{"content": "n't anything if you 're seated .", "line": "just do n't bother ordering anything if you 're seated .", "masks": [0, 1, 3, 4], "label": "label"}
+{"content": "they also of what deli .", "line": "they also have lost sight of what good deli food is .", "masks": [2, 3, 4, 7, 9, 10], "label": "label"}
+{"content": "the evening out .", "line": "the evening started out slow .", "masks": [2, 4], "label": "label"}
+{"content": "i , '' um ... no i 'm .", "line": "i replied , '' um ... no i 'm cool .", "masks": [1, 9], "label": "label"}
+{"content": "the !", "line": "the queen bed was horrible !", "masks": [1, 2, 3, 4], "label": "label"}
+{"content": "meanwhile i 'm for an answer .", "line": "meanwhile i 'm waiting for an answer .", "masks": [3], "label": "label"}
+{"content": "oh , i should .", "line": "oh , i should not have asked .", "masks": [4, 5, 6], "label": "label"}
+{"content": "my toddler a under one of the seats .", "line": "my toddler found a dead mouse under one of the seats .", "masks": [2, 4, 5], "label": "label"}
+{"content": "this .", "line": "this place is just ok .", "masks": [1, 2, 3, 4], "label": "label"}
+{"content": "i to i .", "line": "i have to say i was truly disappointed .", "masks": [1, 3, 5, 6, 7], "label": "label"}
+{"content": "this the i will back .", "line": "this is the reason i will never go back .", "masks": [1, 3, 6, 7], "label": "label"}
+{"content": "furthermore , there no or on the menu .", "line": "furthermore , there is no sausage or bacon on the menu .", "masks": [3, 5, 7], "label": "label"}
+{"content": "when the manager finally up he and !", "line": "when the manager finally showed up he was rude and dismissive !", "masks": [4, 7, 8, 10], "label": "label"}
+{"content": "the office also to about this experience .", "line": "the office also failed to even apologize about this whole horrific experience .", "masks": [3, 5, 6, 9, 10], "label": "label"}
+{"content": "nope , way way .", "line": "nope , way way worse .", "masks": [4], "label": "label"}
+{"content": "there no and no customer service .", "line": "there are no smiles and no customer service .", "masks": [1, 3], "label": "label"}
+{"content": "when she n't him quickly , he up on her .", "line": "when she did n't answer him quickly enough , he hung up on her .", "masks": [2, 4, 7, 10], "label": "label"}
+{"content": "the fried rice and there a of it .", "line": "the fried rice was gross and there was a shit load of it .", "masks": [3, 4, 7, 9, 10], "label": "label"}
+{"content": "if your patio south , you 're out of .", "line": "if your patio is south facing , you 're out of luck .", "masks": [3, 5, 11], "label": "label"}
+{"content": "plus the dude n't how to the computer .", "line": "plus the dude did n't even know how to work the computer .", "masks": [3, 5, 6, 9], "label": "label"}
+{"content": "overall : my and for a local camera .", "line": "overall : lost my business and recommendation for a good local camera place .", "masks": [2, 4, 6, 9, 12], "label": "label"}
+{"content": "it so , i her if she ?", "line": "it was so odd , i asked her if she was joking ?", "masks": [1, 3, 6, 10, 11], "label": "label"}
+{"content": "the at , and .", "line": "the food was mediocre at best , far too greasy and not cooked well .", "masks": [1, 2, 3, 5, 7, 8, 9, 11, 12, 13], "label": "label"}
+{"content": "( ) , i the .", "line": "food was cold ( still frozen ) , i had the ribs .", "masks": [0, 1, 2, 4, 5, 9, 11], "label": "label"}
+{"content": "n't , no biggie .", "line": "was n't busy , no biggie .", "masks": [0, 2], "label": "label"}
+{"content": "the bathroom area nothing .", "line": "the bathroom area is nothing special .", "masks": [3, 5], "label": "label"}
+{"content": "this that he also of !", "line": "this room that he found also reeked of smoke !", "masks": [1, 4, 6, 8], "label": "label"}
+{"content": "also , the that there n't by buffet .", "line": "also , the food that is there is n't great even by buffet standards .", "masks": [3, 5, 7, 9, 10, 13], "label": "label"}
+{"content": "so i my elsewhere .", "line": "so i brought my business elsewhere .", "masks": [2, 4], "label": "label"}
+{"content": "exhibit c : no more student services .", "line": "exhibit c : no more student services peeps .", "masks": [7], "label": "label"}
+{"content": "so from an .", "line": "so disappointing from an old favorite .", "masks": [1, 4, 5], "label": "label"}
+{"content": "it because on a saturday there n't a wait .", "line": "it shows because on a saturday night there was n't a long wait .", "masks": [1, 6, 8, 11], "label": "label"}
+{"content": "tzatziki sauce much dill in it .", "line": "tzatziki sauce had way too much dill in it .", "masks": [2, 3, 4], "label": "label"}
+{"content": "the of the and .", "line": "the texture of the meat just looked and tasted wrong .", "masks": [1, 4, 5, 6, 8, 9], "label": "label"}
+{"content": "i will the salon again .", "line": "i will never visit the salon again .", "masks": [2, 3], "label": "label"}
+{"content": "they one because you to a .", "line": "they only received one star because you have to provide a rating .", "masks": [1, 2, 4, 7, 9, 11], "label": "label"}
+{"content": "i would n't back there again .", "line": "i would n't go back there again .", "masks": [3], "label": "label"}
+{"content": "this by the person i spoke with .", "line": "this was by far the rudest person i spoke with .", "masks": [1, 3, 5], "label": "label"}
+{"content": "the of their but their employees and service .", "line": "the rest of their food is edible but their employees and service are horrible .", "masks": [1, 4, 5, 6, 12, 13], "label": "label"}
+{"content": "as for the , it .", "line": "as for the food , never had it .", "masks": [3, 5, 6], "label": "label"}
+{"content": ", the tech nothing to me about this .", "line": "however , the tech said nothing to me about this .", "masks": [0, 4], "label": "label"}
+{"content": "i 'm from the area and this a and over priced .", "line": "i 'm from the bay area and this was a disappointment and over priced .", "masks": [4, 8, 10], "label": "label"}
+{"content": "my the teriyaki bento and i the .", "line": "my mom ordered the teriyaki chicken bento box and i ordered the sashimi box .", "masks": [1, 2, 5, 7, 10, 12, 13], "label": "label"}
+{"content": "i garlic bread and fettuccine alfredo pasta with vegetables .", "line": "i ordered garlic bread and fettuccine alfredo pasta with vegetables .", "masks": [1], "label": "label"}
+{"content": "it that to sliders !", "line": "it does not take that long to cook sliders !", "masks": [1, 2, 3, 5, 7], "label": "label"}
+{"content": "the sandwich that .", "line": "the sandwich was not that great .", "masks": [2, 3, 5], "label": "label"}
+{"content": "the her .", "line": "the man did not stop her .", "masks": [1, 2, 3, 4], "label": "label"}
+{"content": "um ... we him that we n't to finance .", "line": "um ... we just told him that we did n't want to finance .", "masks": [3, 4, 8, 10], "label": "label"}
+{"content": ", i could n't it .", "line": "tasted really old , i could n't believe it .", "masks": [0, 1, 2, 7], "label": "label"}
+{"content": "it also for my .", "line": "it is also quite expensive for my taste .", "masks": [1, 3, 4, 7], "label": "label"}
+{"content": "maybe we should off the mexican menu .", "line": "food was alright maybe we should have ordered off the mexican menu .", "masks": [0, 1, 2, 6, 7], "label": "label"}
+{"content": "lastly but least , their brownie ... meh .", "line": "lastly but not least , their brownie desert was ... meh .", "masks": [2, 7, 8], "label": "label"}
+{"content": "it that this restaurant no .", "line": "it shows that this restaurant has no class .", "masks": [1, 5, 7], "label": "label"}
+{"content": "one after another they n't to address .", "line": "one broken thing after another they do n't care to address .", "masks": [1, 2, 6, 8], "label": "label"}
+{"content": "we 've to this restaurant many .", "line": "we 've been to this long established restaurant many times .", "masks": [2, 5, 6, 9], "label": "label"}
+{"content": "my except for the container of .", "line": "my plate looked nearly half empty except for the small container of cole slaw .", "masks": [1, 2, 3, 4, 5, 9, 12, 13], "label": "label"}
+{"content": "when i arrived , no one at the desk .", "line": "when i arrived , no one was at the desk .", "masks": [6], "label": "label"}
+{"content": "we it another 5-10 minutes before we up and .", "line": "we gave it another 5-10 minutes before we got up and left .", "masks": [1, 8, 11], "label": "label"}
+{"content": "the ice , run of the mill .", "line": "even the ice cream was very , very run of the mill .", "masks": [0, 3, 4, 5, 7], "label": "label"}
+{"content": "wendy 's to with their refills for years .", "line": "wendy 's has been know to be cheap with their drink refills for years .", "masks": [2, 3, 4, 6, 7, 10], "label": "label"}
+{"content": "as they i like ugh .", "line": "as soon as they delivered i was like ugh .", "masks": [0, 1, 4, 6], "label": "label"}
+{"content": "the service and the restaurant .", "line": "the service is mediocre and the restaurant is just average .", "masks": [2, 3, 7, 8, 9], "label": "label"}
+{"content": "but i could this one .", "line": "but i darn sure could have cooked this one .", "masks": [2, 3, 5, 6], "label": "label"}
+{"content": "all i can .", "line": "just terrible is all i can say .", "masks": [0, 1, 2, 6], "label": "label"}
+{"content": "they a machine on site ?", "line": "did they not have a fountain machine on site ?", "masks": [0, 2, 3, 5], "label": "label"}
+{"content": "his egg sandwiches like feet and .", "line": "his egg sandwiches stink like feet and are slimy .", "masks": [3, 7, 8], "label": "label"}
+{"content": ", and to instead .", "line": "stay away , and go to cheesecake instead .", "masks": [0, 1, 4, 6], "label": "label"}
+{"content": "we there in , because we this .", "line": "we stood there in shock , because we never expected this .", "masks": [1, 4, 8, 9], "label": "label"}
+{"content": "i 've here many , but none as .", "line": "i 've eaten here many times , but none as bad as last night .", "masks": [2, 5, 9, 10, 12, 13], "label": "label"}
+{"content": "long if you 're the one there .", "line": "always takes way too long even if you 're the only one there .", "masks": [0, 1, 2, 3, 5, 10], "label": "label"}
+{"content": ", everyone else after their nails .", "line": "however , everyone else paid after their nails were completed .", "masks": [0, 4, 8, 9], "label": "label"}
+{"content": "so , that my one and only the benedict there .", "line": "so , that was my one and only time ordering the benedict there .", "masks": [3, 8, 9], "label": "label"}
+{"content": "overall , i n't the .", "line": "overall , i do n't enjoy the place very much .", "masks": [3, 5, 7, 8, 9], "label": "label"}
+{"content": "one of the employees , but it n't .", "line": "one of the employees apologized , but it did n't seem very sincere .", "masks": [4, 8, 10, 11, 12], "label": "label"}
+{"content": "there a they can you in quickly .", "line": "there is a reason they can get you in fairly quickly .", "masks": [1, 3, 6, 9], "label": "label"}
+{"content": "zero an ?", "line": "is zero stars an option ?", "masks": [0, 2, 4], "label": "label"}
+{"content": "in the run , they nothing for me .", "line": "in the long run , they did absolutely nothing for me .", "masks": [2, 6, 7], "label": "label"}
+{"content": "but this at noon .", "line": "but let this story begin at noon today .", "masks": [1, 3, 4, 7], "label": "label"}
+{"content": "though , i here .", "line": "seriously though , i have never shopped here .", "masks": [0, 4, 5, 6], "label": "label"}
+{"content": "it the in the valley .", "line": "it is the absolute worse place in the valley .", "masks": [1, 3, 4, 5], "label": "label"}
+{"content": "but their inventory questionable !", "line": "but their inventory was questionable !", "masks": [3], "label": "label"}
+{"content": "but the chili and cheese .", "line": "chicken fried chicken was dry but the green chili macaroni and cheese was good .", "masks": [0, 1, 2, 3, 4, 7, 9, 12, 13], "label": "label"}
+{"content": "so he can a for them .", "line": "so he can charge a bloody fortune for them .", "masks": [3, 5, 6], "label": "label"}
+{"content": "we her or something ?", "line": "were we irritating her or something ?", "masks": [0, 2], "label": "label"}
+{"content": "this pissed me off for the .", "line": "this place has pissed me off for the last time .", "masks": [1, 2, 8, 9], "label": "label"}
+{"content": "sign a lease with these people .", "line": "do not sign a lease with these people .", "masks": [0, 1], "label": "label"}
+{"content": "n't the .", "line": "do n't waste the trip .", "masks": [0, 2, 4], "label": "label"}
+{"content": "to one entree because .", "line": "had to returned one entree because too cold .", "masks": [0, 2, 6, 7], "label": "label"}
+{"content": "the restroom a .", "line": "the restroom was a mess .", "masks": [2, 4], "label": "label"}
+{"content": "i that 's my experience !", "line": "i mean that 's been my experience !", "masks": [1, 4], "label": "label"}
+{"content": "the taco but nothing .", "line": "the beef taco was good but nothing special .", "masks": [1, 3, 4, 7], "label": "label"}
+{"content": "either i would from camping world .", "line": "either way i would never recommend buying from camping world .", "masks": [1, 4, 5, 6], "label": "label"}
+{"content": "i to down and for my .", "line": "i went to sit down and wait for my order .", "masks": [1, 3, 6, 9], "label": "label"}
+{"content": "its also a park .", "line": "its also not a very clean park .", "masks": [2, 4, 5], "label": "label"}
+{"content": "i to repeatedly with no .", "line": "i tried to call repeatedly with no response .", "masks": [1, 3, 7], "label": "label"}
+{"content": "they me for , and parts installed .", "line": "they charged me for work not done , and parts not installed .", "masks": [1, 4, 5, 6, 10], "label": "label"}
+{"content": "it and .", "line": "it looks old and outdated .", "masks": [1, 2, 4], "label": "label"}
+{"content": "he my either .", "line": "he did not return my call either .", "masks": [1, 2, 3, 5], "label": "label"}
+{"content": "if you travel a at this hotel .", "line": "if you travel a lot do not stay at this hotel .", "masks": [4, 5, 6, 7], "label": "label"}
+{"content": "i would for than it and .", "line": "i would rather wait for hot food than have it cold and soggy .", "masks": [2, 3, 5, 6, 8, 10, 12], "label": "label"}
+{"content": "the here and and .", "line": "the food here is bland and boring and bad .", "masks": [1, 3, 4, 6, 8], "label": "label"}
+{"content": "this one on the ball .", "line": "this one is not on the ball .", "masks": [2, 3], "label": "label"}
+{"content": "for the i a cook , i seasoning !", "line": "for the record i am a good cook , i use seasoning !", "masks": [2, 4, 6, 10], "label": "label"}
+{"content": "the tow package an either .", "line": "the tow package is not an issue either .", "masks": [3, 4, 6], "label": "label"}
+{"content": ", to a to a .", "line": "very crowded , difficult to have a chance to actually have a good time .", "masks": [0, 1, 3, 5, 7, 9, 10, 12, 13], "label": "label"}
+{"content": "i it 's when employees that .", "line": "i think it 's terrible when employees act that way .", "masks": [1, 4, 7, 9], "label": "label"}
+{"content": "i 'll for a salon .", "line": "i 'll keep looking for a different salon .", "masks": [2, 3, 6], "label": "label"}
+{"content": "you can me to ever here !", "line": "you can not pay me to ever shop here !", "masks": [2, 3, 7], "label": "label"}
+{"content": "french , , but eggs .", "line": "french toast plate was good , mom said , but eggs were cold .", "masks": [1, 2, 3, 4, 6, 7, 11, 12], "label": "label"}
+{"content": "the : , but below .", "line": "now the food : not horrible , but below average .", "masks": [0, 2, 4, 5, 9], "label": "label"}
+{"content": "this the greek i 've in my .", "line": "this is easily the worst greek food i 've had in my life .", "masks": [1, 2, 4, 6, 9, 12], "label": "label"}
+{"content": "no what in to .", "line": "no stars is what in want to give .", "masks": [1, 2, 5, 7], "label": "label"}
+{"content": "when it we should it back .", "line": "when it came we should have sent it back .", "masks": [2, 5, 6], "label": "label"}
+{"content": "the equipment so and .", "line": "the equipment is so old and looks dirty .", "masks": [2, 4, 6, 7], "label": "label"}
+{"content": "i 'm to the .", "line": "i 'm not willing to take the chance .", "masks": [2, 3, 5, 7], "label": "label"}
+{"content": "this like urine for some .", "line": "this place smelt like old urine for some reason .", "masks": [1, 2, 4, 8], "label": "label"}
+{"content": "they over and under .", "line": "bottom line they over promise and under deliver .", "masks": [0, 1, 4, 7], "label": "label"}
+{"content": "i dont why i anything .", "line": "i dont know why i was expecting anything different .", "masks": [2, 5, 6, 8], "label": "label"}
+{"content": "nothing that about this .", "line": "nothing that special about this place .", "masks": [2, 5], "label": "label"}
+{"content": "'s on every .", "line": "razz 's failed on every occasion .", "masks": [0, 2, 5], "label": "label"}
+{"content": "management longer about the golf experience .", "line": "management no longer cares about the golf experience .", "masks": [1, 3], "label": "label"}
+{"content": "20-30 % at most , i the one in the .", "line": "20-30 % capacity at most , i was the only one in the pool .", "masks": [2, 7, 9, 13], "label": "label"}
+{"content": "the chow mein and .", "line": "the chow mein was very mushy and had weird texture .", "masks": [3, 4, 5, 7, 8, 9], "label": "label"}
+{"content": "the though it to signage .", "line": "found the place even though it is hard due to bad signage .", "masks": [0, 2, 3, 6, 7, 8, 10], "label": "label"}
+{"content": "and i n't !", "line": "not sure and i do n't care !", "masks": [0, 1, 4, 6], "label": "label"}
+{"content": "two hours of my i can back .", "line": "two hours of my life i can never get back .", "masks": [4, 7, 8], "label": "label"}
+{"content": "off my purse and three of shoes .", "line": "dropped off my red purse and three pair of black shoes .", "masks": [0, 3, 7, 9], "label": "label"}
+{"content": "and would of this .", "line": "very disappointed and would stay clear of this place .", "masks": [0, 1, 4, 5, 8], "label": "label"}
+{"content": "service , pace between courses - waits .", "line": "service fair , pace was bad between courses - long waits .", "masks": [1, 4, 5, 9], "label": "label"}
+{"content": "second , so .", "line": "second time , not so good .", "masks": [1, 3, 5], "label": "label"}
+{"content": "the bread and the .", "line": "the bread was soggy and the dip was inedible .", "masks": [2, 3, 6, 7, 8], "label": "label"}
+{"content": "he n't another for me to in .", "line": "he did n't even offer another time for me to come in .", "masks": [1, 3, 4, 6, 10], "label": "label"}
+{"content": "what the you ?", "line": "what the hell are you doing ?", "masks": [2, 3, 5], "label": "label"}
+{"content": "the at the front desk .", "line": "the lady at the front desk was not very friendly .", "masks": [1, 6, 7, 8, 9], "label": "label"}
+{"content": "i impressed , and would this .", "line": "i was not impressed , and would not recommend this place .", "masks": [1, 2, 7, 8, 10], "label": "label"}
+{"content": "the dipping sauce .", "line": "the dipping sauce was too sweet too .", "masks": [3, 4, 5, 6], "label": "label"}
+{"content": "finally , the cheese tiny and anything but .", "line": "finally , the cheese crisp was tiny and was anything but crisp .", "masks": [4, 5, 8, 11], "label": "label"}
+{"content": "i online , and the site my .", "line": "i checked online , and the coupon site said my certificate was good .", "masks": [1, 6, 8, 10, 11, 12], "label": "label"}
+{"content": ", , pants on .", "line": "liar , liar , pants on fire .", "masks": [0, 2, 6], "label": "label"}
+{"content": "parking : no or anything , so you to .", "line": "parking : no signs or anything , so you just have to guess .", "masks": [3, 9, 10, 12], "label": "label"}
+{"content": "i should with chinese dining .", "line": "i should have stuck with sun chinese dining .", "masks": [2, 3, 5], "label": "label"}
+{"content": "so and service .", "line": "not so great food and service .", "masks": [0, 2, 3], "label": "label"}
+{"content": "this an out hotel .", "line": "this is an old worn out hotel .", "masks": [1, 3, 4], "label": "label"}
+{"content": "the pizza without toppings and it 's in .", "line": "the pizza is offered without toppings and it 's lacking in flavor .", "masks": [2, 3, 9, 11], "label": "label"}
+{"content": "the mechanics as .", "line": "the mechanics are very amateur as usual .", "masks": [2, 3, 4, 6], "label": "label"}
+{"content": "this beyond a .", "line": "this place is beyond a shit hole .", "masks": [1, 2, 5, 6], "label": "label"}
+{"content": "this a with service .", "line": "this place is a shit hole with shit service .", "masks": [1, 2, 4, 5, 7], "label": "label"}
+{"content": ", it out to nothing like i it would .", "line": "however , it turned out to be nothing like i thought it would .", "masks": [0, 3, 6, 10], "label": "label"}
+{"content": "back in for , .", "line": "went back in for adjustment , realized still incorrect .", "masks": [0, 4, 6, 7, 8], "label": "label"}
+{"content": "service as .", "line": "service was just as disappointing .", "masks": [1, 2, 4], "label": "label"}
+{"content": "i anyone to this starbucks .", "line": "i do not recommend anyone to this starbucks .", "masks": [1, 2, 3], "label": "label"}
+{"content": "the only i a dessert .", "line": "the only thing i was offered was a free dessert .", "masks": [2, 4, 5, 6, 8], "label": "label"}
+{"content": "management to .", "line": "management does not seem to care .", "masks": [1, 2, 3, 5], "label": "label"}
+{"content": "i a experience , and i would back .", "line": "i had a horrible experience , and i sadly would not come back .", "masks": [1, 3, 8, 10, 11], "label": "label"}
+{"content": "it brown rice .", "line": "it is not really brown rice .", "masks": [1, 2, 3], "label": "label"}
+{"content": "n't a .", "line": "did n't even get a response .", "masks": [0, 2, 3, 5], "label": "label"}
+{"content": "to , i contacted the store manager after .", "line": "needless to say , i contacted the store manager directly after leaving .", "masks": [0, 2, 9, 11], "label": "label"}
+{"content": "my wife in for alterations and .", "line": "my wife came in for alterations and was treated quite rudely .", "masks": [2, 7, 8, 9, 10], "label": "label"}
+{"content": "i a cesar salad with a of blackened .", "line": "i ordered a cesar salad with a side of blackened chicken .", "masks": [1, 7, 10], "label": "label"}
+{"content": "it so , it would .", "line": "had it not been so terribly hot , it would have just been inconvenient .", "masks": [0, 2, 3, 5, 6, 10, 11, 12, 13], "label": "label"}
+{"content": "she me a if i would a soda while .", "line": "she did offer me a copy if i would like a soda while waiting .", "masks": [1, 2, 5, 9, 13], "label": "label"}
+{"content": "i emailed to them but they dont .", "line": "i emailed to let them know but they apparently dont care .", "masks": [3, 5, 8, 10], "label": "label"}
+{"content": "i id how their .", "line": "i suppose id forgotten how bland their offerings really are .", "masks": [1, 3, 5, 7, 8, 9], "label": "label"}
+{"content": "it n't finished .", "line": "it did n't get finished .", "masks": [1, 3], "label": "label"}
+{"content": "we will back .", "line": "we will not be coming back .", "masks": [2, 3, 4], "label": "label"}
+{"content": "he could n't her , though .", "line": "he could n't actually read her pressure , though .", "masks": [3, 4, 6], "label": "label"}
+{"content": ", from this .", "line": "absolutely terrible , do not order from this place .", "masks": [0, 1, 3, 4, 5, 8], "label": "label"}
+{"content": "kicked ass , , so much .", "line": "ate kicked ass , marquee , not so much .", "masks": [0, 4, 6], "label": "label"}
+{"content": "the .", "line": "even the water tasted horrible .", "masks": [0, 2, 3, 4], "label": "label"}
+{"content": "and the as the locations .", "line": "and the food is simply not as good as the other locations .", "masks": [2, 3, 4, 5, 6, 7, 10], "label": "label"}
+{"content": "sounds n't it ?", "line": "sounds good does n't it ?", "masks": [1, 2], "label": "label"}
+{"content": "but it and in there .", "line": "but it was disgusting and hot in there .", "masks": [2, 3, 5], "label": "label"}
+{"content": "yes , the portions , but n't everything .", "line": "yes , the portions were large , but size is n't everything .", "masks": [4, 5, 8, 9], "label": "label"}
+{"content": "it over and .", "line": "it was over fried and very hard .", "masks": [1, 3, 5, 6], "label": "label"}
+{"content": "i such an attitude toward a customer before .", "line": "i have not received such an attitude toward a customer before .", "masks": [1, 2, 3], "label": "label"}
+{"content": "the overall with frys .", "line": "the overall prices are not competitive with frys .", "masks": [2, 3, 4, 5], "label": "label"}
+{"content": "it at the of the customers .", "line": "too bad it was at the expense of the other customers .", "masks": [0, 1, 3, 6, 9], "label": "label"}
+{"content": "we 'll if that , but i 'm my breath .", "line": "we 'll see if that happens , but i 'm not holding my breath .", "masks": [2, 5, 10, 11], "label": "label"}
+{"content": "and management n't anything about it .", "line": "and management does n't do anything about it .", "masks": [2, 4], "label": "label"}
+{"content": "no these restaurants up around the valley .", "line": "no wonder these restaurants are closing up all around the valley .", "masks": [1, 4, 5, 7], "label": "label"}
+{"content": "what you to me when i purchase a dozen bagels ?", "line": "what were you going to charge me when i purchase a dozen bagels ?", "masks": [1, 3, 5], "label": "label"}
+{"content": "i 'm my noodles !", "line": "i 'm still craving my drunken noodles !", "masks": [2, 3, 5], "label": "label"}
+{"content": "these the .", "line": "these days the quality is pretty lousy .", "masks": [1, 3, 4, 5, 6], "label": "label"}
+{"content": "this woman should in the service in az with that attitude .", "line": "this woman should not be in the service industry in az with that attitude .", "masks": [3, 4, 8], "label": "label"}
+{"content": "service but could up for the and .", "line": "service was average but could not make up for the poor food and drink .", "masks": [1, 2, 5, 6, 10, 11, 13], "label": "label"}
+{"content": "my husband to up to the bar to our wine .", "line": "my husband had to walk up to the bar to place our wine order .", "masks": [2, 4, 10, 13], "label": "label"}
+{"content": "and the pizza , , and .", "line": "and the pizza was cold , greasy , and generally quite awful .", "masks": [3, 4, 6, 9, 10, 11], "label": "label"}
+{"content": "maybe they a ?", "line": "maybe they were having a bad night ?", "masks": [2, 3, 5, 6], "label": "label"}
+{"content": "this and down and the service !", "line": "this place is dirty and run down and the service stinks !", "masks": [1, 2, 3, 5, 10], "label": "label"}
+{"content": "the only we that the coffee .", "line": "the only thing we received that was hot was the coffee .", "masks": [2, 4, 6, 7, 8], "label": "label"}
+{"content": "so , it in the .", "line": "so , it went in the trash .", "masks": [3, 6], "label": "label"}
+{"content": "it for all , though i n't he noticed .", "line": "it was embarrassing for all involved , though i do n't think he noticed .", "masks": [1, 2, 5, 9, 11], "label": "label"}
+{"content": "so i my tires online , scheduled an appointment for two out .", "line": "so i ordered my tires online , scheduled an appointment for two days out .", "masks": [2, 12], "label": "label"}
+{"content": ", i n't any with me .", "line": "hopefully , i do n't take any bed bugs with me .", "masks": [0, 3, 5, 7, 8], "label": "label"}
+{"content": "the beer n't , but the than .", "line": "the beer is n't bad , but the food was less than desirable .", "masks": [2, 4, 8, 9, 10, 12], "label": "label"}
+{"content": "when it finally out , it .", "line": "when it finally came out , it was bad .", "masks": [3, 7, 8], "label": "label"}
+{"content": "talk about advertising so before you !", "line": "talk about false advertising so call before you go !", "masks": [2, 5, 8], "label": "label"}
+{"content": "the n't but the service .", "line": "the food is n't too bad but the service is terrible .", "masks": [1, 2, 4, 5, 9, 10], "label": "label"}
+{"content": ", , no .", "line": "crab cakes , salt , no other flavor .", "masks": [0, 1, 3, 6, 7], "label": "label"}
+{"content": "but the customer service it all for me .", "line": "but the customer service ruins it all for me .", "masks": [4], "label": "label"}
+{"content": "i out , the manager to .", "line": "i just walked out , called the manager to complain .", "masks": [1, 2, 5, 9], "label": "label"}
+{"content": "i with this .", "line": "i was very disappointed with this place .", "masks": [1, 2, 3, 6], "label": "label"}
+{"content": "so you n't my . ''", "line": "so you are n't my problem . ''", "masks": [2, 5], "label": "label"}
+{"content": ", the tour experts .", "line": "unfortunately , the tour guides are not experts .", "masks": [0, 4, 5, 6], "label": "label"}
+{"content": "geez i to a source for those uni ... .", "line": "geez i need to find a source for those uni blocks ... .", "masks": [2, 4, 10], "label": "label"}
+{"content": "she n't anything and .", "line": "she does n't say anything and just walks away .", "masks": [1, 3, 6, 7, 8], "label": "label"}
+{"content": "the others the hash , also over-cooked and .", "line": "the others ordered the short rib hash , also over-cooked and dry .", "masks": [2, 4, 5, 11], "label": "label"}
+{"content": "the staff to .", "line": "the staff was nowhere to be found .", "masks": [2, 3, 5, 6], "label": "label"}
+{"content": "it like plastic and the .", "line": "it tasted like melted plastic and had the same tough consistency .", "masks": [1, 3, 6, 8, 9, 10], "label": "label"}
+{"content": "it n't matter of she at all .", "line": "it did n't matter of she is good at all other times .", "masks": [1, 6, 7, 10, 11], "label": "label"}
+{"content": "i this and he back to of the bill .", "line": "i acknowledged this and he went back to take care of the bill .", "masks": [1, 5, 8, 9], "label": "label"}
+{"content": "your money & your .", "line": "save your money & your patience .", "masks": [0, 5], "label": "label"}
+{"content": "what a of my and theirs .", "line": "what a waste of my time and theirs .", "masks": [2, 5], "label": "label"}
+{"content": "one for my , and one for my wife 's .", "line": "one was for my dog , and one was for my wife 's dog .", "masks": [1, 4, 8, 13], "label": "label"}
+{"content": "my for more , i .", "line": "my fault for not looking more closely , i guess .", "masks": [1, 3, 4, 6, 9], "label": "label"}
+{"content": "the server n't .", "line": "the server was n't buying .", "masks": [2, 4], "label": "label"}
+{"content": "customer service i ever .", "line": "worst customer service i have ever had .", "masks": [0, 4, 6], "label": "label"}
+{"content": "what to this sandwich shop .", "line": "sad what has happened to this sandwich shop .", "masks": [0, 2, 3], "label": "label"}
+{"content": "and for this , i wo n't .", "line": "and for this reason , i wo n't return .", "masks": [3, 8], "label": "label"}
+{"content": "this branch and .", "line": "this branch is getting worse and worse .", "masks": [2, 3, 4, 6], "label": "label"}
+{"content": "they to us in the bar an .", "line": "they failed to tell us eating in the bar was an option .", "masks": [1, 3, 5, 9, 11], "label": "label"}
+{"content": "they can thank you for the .", "line": "they can thank you for the low rating .", "masks": [6, 7], "label": "label"}
+{"content": "i n't it .", "line": "i did n't even eat it .", "masks": [1, 3, 4], "label": "label"}
+{"content": "this the i ever from a haircut .", "line": "this was the first time i ever cried from a haircut .", "masks": [1, 3, 4, 7], "label": "label"}
+{"content": "there no to our server .", "line": "there was no personality to our server .", "masks": [1, 3], "label": "label"}
+{"content": "if i n't with my coworker , i would 've out .", "line": "if i was n't with my coworker , i would 've walked out .", "masks": [2, 11], "label": "label"}
+{"content": "i n't ra a chain .", "line": "i did n't know ra was a chain .", "masks": [1, 3, 5], "label": "label"}
+{"content": "i 'm they must it some but this .", "line": "i 'm sure they must get it right some days but not this day .", "masks": [2, 5, 7, 9, 11, 13], "label": "label"}
+{"content": "to the sunday brunch to our daughter 's college .", "line": "went to the sunday brunch to celebrate our daughter 's college graduation .", "masks": [0, 6, 11], "label": "label"}
+{"content": "this the third they 've messed up that spice .", "line": "this is the third time they 've messed up that spice .", "masks": [1, 4], "label": "label"}
+{"content": "the a of , and money .", "line": "the game room is a waste of time , energy and money .", "masks": [1, 2, 3, 5, 7, 9], "label": "label"}
+{"content": "i also him i would him some feedback online .", "line": "i also told him i would leave him some good feedback online .", "masks": [2, 6, 9], "label": "label"}
+{"content": ", the manager back & me my up .", "line": "however , the manager came back & told me my order was coming up .", "masks": [0, 4, 7, 10, 11, 12], "label": "label"}
+{"content": "that a or a ?", "line": "is that a good thing or a bad thing ?", "masks": [0, 3, 4, 7, 8], "label": "label"}
+{"content": "maria the manager a person .", "line": "maria the manager is a horrible person .", "masks": [3, 5], "label": "label"}
+{"content": "it so that i out of there .", "line": "it was so much not good that i just wanted out of there .", "masks": [1, 3, 4, 5, 8, 9], "label": "label"}
+{"content": "we them to it , we n't to .", "line": "we told them to forget it , we did n't want to wait .", "masks": [1, 4, 8, 10, 12], "label": "label"}
+{"content": "first , the bartender an a -- .", "line": "first , the bartender was an a -- hole .", "masks": [4, 8], "label": "label"}
+{"content": "stay from this .", "line": "absolutely ridiculous stay away from this place .", "masks": [0, 1, 3, 6], "label": "label"}
+{"content": "i restaurants .", "line": "i guess even great restaurants have bad days .", "masks": [1, 2, 3, 5, 6, 7], "label": "label"}
+{"content": "oh well , who ... right ?", "line": "oh well , who cares ... right ?", "masks": [4], "label": "label"}
+{"content": "we will our money elsewhere .", "line": "we will spend our money elsewhere .", "masks": [2], "label": "label"}
+{"content": "i will purchase another lv again .", "line": "i will never purchase another lv bag again .", "masks": [2, 6], "label": "label"}
+{"content": "and -- i for that .", "line": "uneven pieces and falling apart -- i paid for that .", "masks": [0, 1, 3, 4, 7], "label": "label"}
+{"content": "we n't with anything that .", "line": "we did n't leave with anything that day .", "masks": [1, 3, 7], "label": "label"}
+{"content": ", , service !", "line": "horrible , horrible , horrible service !", "masks": [0, 2, 4], "label": "label"}
+{"content": "it so and like any pizza .", "line": "now it is not so thin and taste like any other pizza place .", "masks": [0, 2, 3, 5, 7, 10, 12], "label": "label"}
+{"content": "this of me wonton for my .", "line": "this piece of shit gave me wonton crackers for my soup .", "masks": [1, 3, 4, 7, 10], "label": "label"}
+{"content": "i 'm a of chain restaurants .", "line": "i 'm not a fan of huge chain restaurants .", "masks": [2, 4, 6], "label": "label"}
+{"content": "the rice and and the .", "line": "the rice was cold and hard and the taste was very bland .", "masks": [2, 3, 5, 8, 9, 10, 11], "label": "label"}
+{"content": "you can people based on .", "line": "you can not judge people based on appearance .", "masks": [2, 3, 7], "label": "label"}
+{"content": "you the only in town with pizza .", "line": "you are not the only place in town with decent pizza .", "masks": [1, 2, 5, 9], "label": "label"}
+{"content": "the thai basil pasta out and .", "line": "the thai basil pasta came out lukewarm and spicy .", "masks": [4, 6, 8], "label": "label"}
+{"content": "no and their .", "line": "no courtesy and their food is pathetic .", "masks": [1, 4, 5, 6], "label": "label"}
+{"content": "i would reccomend anyone to here .", "line": "i would never reccomend anyone to live here .", "masks": [2, 6], "label": "label"}
+{"content": "to a month to in .", "line": "had to wait a month to get in .", "masks": [0, 2, 6], "label": "label"}
+{"content": "but staff and workers !", "line": "great food but horrible staff and very very rude workers !", "masks": [0, 1, 3, 6, 7, 8], "label": "label"}
+{"content": "it my weekend my folks .", "line": "it was my last weekend visiting my folks .", "masks": [1, 3, 5], "label": "label"}
+{"content": "moo gai pan to which the sauce the .", "line": "next dish was moo goo gai pan to which the sauce is the secret .", "masks": [0, 1, 2, 4, 11, 13], "label": "label"}
+{"content": "here if you in .", "line": "do not go here if you are interested in eating good food .", "masks": [0, 1, 2, 6, 7, 9, 10, 11], "label": "label"}
+{"content": "and per .", "line": "prime rib was fatty and not cooked per requested .", "masks": [0, 1, 2, 3, 5, 6, 8], "label": "label"}
+{"content": "tonight i all for this company .", "line": "tonight i lost all respect for this company .", "masks": [2, 4], "label": "label"}
+{"content": "to we will to walgreens locations from .", "line": "safe to say we will be going to other walgreens locations from now on .", "masks": [0, 2, 5, 6, 8, 12, 13], "label": "label"}
+{"content": "i may it back to the bar but i will the restaurant .", "line": "i may make it back to the bar but i will skip the restaurant .", "masks": [2, 11], "label": "label"}
+{"content": "me you , this from !", "line": "let me tell you , this place was far from busy !", "masks": [0, 2, 6, 7, 8, 10], "label": "label"}
+{"content": "it 's much like an irish pub , which .", "line": "it 's not much like an actual irish pub , which is depressing .", "masks": [2, 6, 11, 12], "label": "label"}
+{"content": "the birthday as her .", "line": "the birthday surprise has been ruined as well as her special day .", "masks": [2, 3, 4, 5, 6, 7, 10, 11], "label": "label"}
+{"content": "included in this a and an after midnight .", "line": "included in this price was a credit card fee and an after midnight fee .", "masks": [3, 4, 6, 7, 8, 13], "label": "label"}
+{"content": "the only item to the broccoli !", "line": "the only item was able to eat was the soggy broccoli beef !", "masks": [3, 4, 6, 7, 9, 11], "label": "label"}
+{"content": "than that , i n't what about it .", "line": "other than that , i really do n't know what was good about it .", "masks": [0, 5, 6, 8, 10, 11], "label": "label"}
+{"content": "the that .", "line": "the food is not that authentic .", "masks": [1, 2, 3, 5], "label": "label"}
+{"content": ", .", "line": "actually , just keep walking .", "masks": [0, 2, 3, 4], "label": "label"}
+{"content": ", it the .", "line": "unfortunately , it is the worst .", "masks": [0, 3, 5], "label": "label"}
+{"content": "the over the years .", "line": "the place has obviously gone downhill over the years .", "masks": [1, 2, 3, 4, 5], "label": "label"}
+{"content": "so much these .", "line": "not so much these days .", "masks": [0, 4], "label": "label"}
+{"content": "n't like dealing with the restaurants closer to asu .", "line": "did n't feel like dealing with the restaurants closer to asu .", "masks": [0, 2], "label": "label"}
+{"content": "this the panda location there !", "line": "this is the worst panda express location there is !", "masks": [1, 3, 5, 8], "label": "label"}
+{"content": "the door would n't open at all .", "line": "the door would n't open at all .", "masks": [], "label": "label"}
+{"content": "my services rushed and she n't a .", "line": "my services were very rushed and she did n't even do a good job .", "masks": [2, 3, 7, 9, 10, 12, 13], "label": "label"}
+{"content": "the ceiling air conditioner in the hallway .", "line": "the ceiling air conditioner in the hallway is very loud .", "masks": [7, 8, 9], "label": "label"}
+{"content": "we then our with our and overwhelmed server .", "line": "we then placed our order with our extremely rude and apparently completely overwhelmed server .", "masks": [2, 4, 7, 8, 10, 11], "label": "label"}
+{"content": "i may to their .", "line": "i may just post pictures to prove their shoddy work .", "masks": [2, 3, 4, 6, 8, 9], "label": "label"}
+{"content": "it way ( to what they !", "line": "it is way overpriced ( compare to what they serve !", "masks": [1, 3, 5, 9], "label": "label"}
+{"content": "this a college .", "line": "this is a terrible college .", "masks": [1, 3], "label": "label"}
+{"content": "my jack and coke .", "line": "my jack and coke was seriously lacking .", "masks": [4, 5, 6], "label": "label"}
+{"content": ", i will probably to at this again .", "line": "sadly , i will probably never be able to eat at this place again .", "masks": [0, 5, 6, 7, 9, 12], "label": "label"}
+{"content": "the falafel 's like nuggets , and .", "line": "the falafel 's looked like chicken nuggets , and were lacking flavor .", "masks": [3, 5, 9, 10, 11], "label": "label"}
+{"content": "i and there customers .", "line": "i looked around and there were still customers .", "masks": [1, 2, 5, 6], "label": "label"}
+{"content": "i it to this to diners .", "line": "i said it was disgusting to even serve this to diners .", "masks": [1, 3, 4, 6, 7], "label": "label"}
+{"content": "we both it overcooked -- and no seasonings .", "line": "we both found it overcooked -- and no seasonings .", "masks": [2], "label": "label"}
+{"content": "in my legs from the noodles and over the .", "line": "in turn my legs are burnt from the noodles and all over the floor .", "masks": [1, 4, 5, 10, 13], "label": "label"}
+{"content": "if at all .", "line": "avoid if at all possible .", "masks": [0, 4], "label": "label"}
+{"content": "i to over , or .", "line": "i do not like to be screwed over , or short changed .", "masks": [1, 2, 3, 5, 6, 10, 11], "label": "label"}
+{"content": "we how long the wait would , she she .", "line": "we asked how long the wait would be , she said she was unsure .", "masks": [1, 7, 10, 12, 13], "label": "label"}
+{"content": "it 's for what you .", "line": "it 's just too expensive for what you get .", "masks": [2, 3, 4, 8], "label": "label"}
+{"content": "also , could they a of cheese or peppers ?", "line": "also , could they not bring a single pack of cheese or red peppers ?", "masks": [4, 5, 7, 8, 12], "label": "label"}
+{"content": "into this location to it off .", "line": "went into this location to drop it off .", "masks": [0, 5], "label": "label"}
+{"content": "we there on a holiday weekend and the service .", "line": "we went there on a busy holiday weekend and the service was extremely slow .", "masks": [1, 5, 11, 12, 13], "label": "label"}
+{"content": "if i the manager , i 'd that on the .", "line": "if i was the manager , i 'd fire that kid on the spot .", "masks": [2, 8, 10, 13], "label": "label"}
+{"content": "because they brew an beer .", "line": "too bad too because they brew an outstanding beer .", "masks": [0, 1, 2, 7], "label": "label"}
+{"content": "the and together quickly with .", "line": "the food was low quality and thrown together quickly with little flavor .", "masks": [1, 2, 3, 4, 6, 10, 11], "label": "label"}
+{"content": "the beer and !", "line": "the beer was nice and cold !", "masks": [2, 3, 5], "label": "label"}
+{"content": "the woman who in the deli .", "line": "the woman who works in the deli is horrible .", "masks": [3, 7, 8], "label": "label"}
+{"content": "will back to kfc - they from me !", "line": "will never go back to kfc - they essentially stole from me !", "masks": [1, 2, 8, 9], "label": "label"}
+{"content": "there for breakfast .", "line": "there are much better places for breakfast .", "masks": [1, 2, 3, 4], "label": "label"}
+{"content": "the waitress a .", "line": "the surly older waitress was a huge bummer .", "masks": [1, 2, 4, 6, 7], "label": "label"}
+{"content": "it 's my fave , but it 's .", "line": "it 's not my fave , but it 's not awful .", "masks": [2, 9, 10], "label": "label"}
+{"content": "um , yah , it n't .", "line": "um , yah , it does n't need replacing just yet .", "masks": [5, 7, 8, 9, 10], "label": "label"}
+{"content": ", .", "line": "pathetic place , worst food .", "masks": [0, 1, 3, 4], "label": "label"}
+{"content": "to , i will to this ever again .", "line": "needless to say , i will not be returning to this place ever again .", "masks": [0, 2, 6, 7, 8, 11], "label": "label"}
+{"content": "firstly , their than .", "line": "firstly , their fees are generally higher than other places .", "masks": [3, 4, 5, 6, 8, 9], "label": "label"}
+{"content": "anything they , in writing .", "line": "anything they say , ask in writing .", "masks": [2, 4], "label": "label"}
+{"content": "this a from mexican cuisine .", "line": "this is a far cry from real new mexican cuisine .", "masks": [1, 3, 4, 6, 7], "label": "label"}
+{"content": "but the woman the one us out .", "line": "but unfortunately the rude woman was the one checking us out .", "masks": [1, 3, 5, 8], "label": "label"}
+{"content": "built in cabinets in kitchen and bathroom along with sink up .", "line": "built in cabinets in kitchen and bathroom along with sink are not kept up .", "masks": [10, 11, 12], "label": "label"}
+{"content": "service in these areas and our visit .", "line": "bad service in these areas and really ruined our visit .", "masks": [0, 6, 7], "label": "label"}
+{"content": "if i it i would it myself !", "line": "if i had wanted it washed i would have washed it myself !", "masks": [2, 3, 5, 8, 9], "label": "label"}
+{"content": "she a and off .", "line": "she just grabbed a couple empty dishes and walked off .", "masks": [1, 2, 4, 5, 6, 8], "label": "label"}
+{"content": "incredible , specials and the occasional groupon .", "line": "incredible , low price specials and the occasional groupon .", "masks": [2, 3], "label": "label"}
+{"content": "the enchiladas but .", "line": "the green enchiladas were ok but not great .", "masks": [1, 3, 4, 6, 7], "label": "label"}
+{"content": "the nothing .", "line": "the problem is nothing was good .", "masks": [1, 2, 4, 5], "label": "label"}
+{"content": "i to no avail .", "line": "i tried to no avail .", "masks": [1], "label": "label"}
+{"content": "university also almost as on apache .", "line": "university is also almost as bad as living on apache .", "masks": [1, 4, 5, 7], "label": "label"}
+{"content": "on nails and toes .", "line": "horrible job on nails and toes .", "masks": [0, 1], "label": "label"}
+{"content": "i to purchase any of the based on .", "line": "i refused to purchase any of the pictures based on quality .", "masks": [1, 7, 10], "label": "label"}
+{"content": "perhaps bread should at no .", "line": "perhaps bread should be offered at no charge .", "masks": [3, 4, 7], "label": "label"}
+{"content": ", there to for sushi .", "line": "simply , there are far superior places to go for sushi .", "masks": [0, 3, 4, 5, 6, 8], "label": "label"}
+{"content": "my suite to and a button on it .", "line": "took my suite to get fitted and a new button put on it .", "masks": [0, 4, 5, 8, 10], "label": "label"}
+{"content": "pizza !", "line": "sketchy sketchy sketchy pizza delivery !", "masks": [0, 1, 2, 4], "label": "label"}
+{"content": "that person didnt their meal until everyone else finished with their meal .", "line": "that person didnt get their meal until everyone else was finished with their meal .", "masks": [3, 9], "label": "label"}
+{"content": "the , i 'm she could it out .", "line": "the place is small , i 'm sure she could have figured it out .", "masks": [1, 2, 3, 7, 10, 11], "label": "label"}
+{"content": "they , and n't to their customers .", "line": "they rush , rush and do n't pay attention to their customers .", "masks": [1, 3, 5, 7, 8], "label": "label"}
+{"content": "but nothing .", "line": "desert followed but nothing special .", "masks": [0, 1, 4], "label": "label"}
+{"content": "no massage with my manicure or pedicure .", "line": "no massage with my manicure or pedicure .", "masks": [], "label": "label"}
+{"content": "i at 6:30 and the off .", "line": "i called at 6:30 and got the complete brush off .", "masks": [1, 5, 7, 8], "label": "label"}
+{"content": ", this experience .", "line": "however , this experience went pretty smooth .", "masks": [0, 4, 5, 6], "label": "label"}
+{"content": "they 're near any that out .", "line": "they 're nowhere near any fight that breaks out .", "masks": [2, 5, 7], "label": "label"}
+{"content": "since their visit , the only we 've !", "line": "since their visit , the only scorpions we 've seen were dead !", "masks": [6, 9, 10, 11], "label": "label"}
+{"content": "she , and so we .", "line": "she was getting pissed , and so were we .", "masks": [1, 2, 3, 7], "label": "label"}
+{"content": "n't to about their .", "line": "did n't seem to care about their job .", "masks": [0, 2, 4, 7], "label": "label"}
+{"content": "would if i could .", "line": "would have rated lower if i could .", "masks": [1, 2, 3], "label": "label"}
+{"content": "personalized or at all .", "line": "not personalized or warm at all .", "masks": [0, 3], "label": "label"}
+{"content": "so one person would while everyone else and for theirs .", "line": "so one person would eat while everyone else was sitting and waiting for theirs .", "masks": [4, 8, 9, 11], "label": "label"}
+{"content": "i like the of the dance .", "line": "i do not like the size of the dance floor .", "masks": [1, 2, 5, 9], "label": "label"}
+{"content": "this location and could the staff .", "line": "this location is super busy and really could use double the staff .", "masks": [2, 3, 4, 6, 8, 9], "label": "label"}
+{"content": "i starbucks customer services at some locations .", "line": "i guess starbucks customer services is only good at some locations .", "masks": [1, 5, 6, 7], "label": "label"}
+{"content": "their cheese i 'm of the string .", "line": "their cheese i 'm certain was of the string variety .", "masks": [4, 5, 9], "label": "label"}
+{"content": "no , the ones at asu , the ones in .", "line": "no , not the ones at asu , the ones in junior high .", "masks": [2, 11, 12], "label": "label"}
+{"content": "three women for lunch friday at at the .", "line": "three women met for lunch last friday at elements at the sanctuary .", "masks": [2, 5, 8, 11], "label": "label"}
+{"content": "ra sushi , you so blah to me .", "line": "ra sushi , you are so blah to me .", "masks": [4], "label": "label"}
+{"content": "half of my over processed .", "line": "half of my head was over processed .", "masks": [3, 4], "label": "label"}
+{"content": "an dude my pedicure .", "line": "an old dude did my pedicure .", "masks": [1, 3], "label": "label"}
+{"content": "like it 's in a fridge for a week .", "line": "like it 's been in a fridge for a week .", "masks": [3], "label": "label"}
+{"content": "`` no , we to a tournament .", "line": "`` no , we are going to have a tournament tomorrow .", "masks": [4, 5, 7, 10], "label": "label"}
+{"content": "when i up the , i another .", "line": "when i picked up the order , i was given another totally different price .", "masks": [2, 5, 8, 9, 11, 12, 13], "label": "label"}
+{"content": "they some of the most parts .", "line": "they do not stock some of the most common parts .", "masks": [1, 2, 3, 8], "label": "label"}
+{"content": "it 's they you at .", "line": "it 's small yet they make you feel right at home .", "masks": [2, 3, 5, 7, 8, 10], "label": "label"}
+{"content": "i will back and this !", "line": "i will be going back and enjoying this great place !", "masks": [2, 3, 6, 8, 9], "label": "label"}
+{"content": "the affordable and a .", "line": "the drinks were affordable and a good pour .", "masks": [1, 2, 6, 7], "label": "label"}
+{"content": "my husband a ruben sandwich , he it .", "line": "my husband got a ruben sandwich , he loved it .", "masks": [2, 8], "label": "label"}
+{"content": "i signed up for their email and a .", "line": "i signed up for their email and got a coupon .", "masks": [7, 9], "label": "label"}
+{"content": "i 'd them a try .", "line": "i 'd definitely recommend giving them a try .", "masks": [2, 3, 4], "label": "label"}
+{"content": "i & m painting .", "line": "i highly recommend e & m painting .", "masks": [1, 2, 3], "label": "label"}
+{"content": "a experience and we will again .", "line": "otherwise a great experience and we will go again .", "masks": [0, 2, 7], "label": "label"}
+{"content": ", and company .", "line": "good drinks , and good company .", "masks": [0, 1, 4], "label": "label"}
+{"content": "oh i my back on !", "line": "oh i got my band geek back on now !", "masks": [2, 4, 5, 8], "label": "label"}
+{"content": "i and she me so and .", "line": "i was nervous and she made me feel so comfortable and welcome .", "masks": [1, 2, 5, 7, 9, 11], "label": "label"}
+{"content": "steak and tuna both .", "line": "great food recommendations steak and tuna were both great .", "masks": [0, 1, 2, 6, 8], "label": "label"}
+{"content": "everything and so !", "line": "everything is fresh and so delicious !", "masks": [1, 2, 5], "label": "label"}
+{"content": "the biscuits and .", "line": "the biscuits and gravy were good .", "masks": [3, 4, 5], "label": "label"}
+{"content": "i can to back year !", "line": "i actually can wait to come back next year !", "masks": [1, 3, 5, 7], "label": "label"}
+{"content": "they so , kind , and priced .", "line": "they were so helpful , kind , and reasonably priced .", "masks": [1, 3, 8], "label": "label"}
+{"content": "god i pei wei .", "line": "god i love pei wei .", "masks": [2], "label": "label"}
+{"content": "folks , bagels , cheese .", "line": "friendly folks , delicious authentic bagels , tasty cream cheese .", "masks": [0, 3, 4, 7, 8], "label": "label"}
+{"content": "you 'll why once you there .", "line": "you 'll see why once you get there .", "masks": [2, 6], "label": "label"}
+{"content": "everyone that i spoke with and kind .", "line": "everyone that i spoke with was very helpful and kind .", "masks": [5, 6, 7], "label": "label"}
+{"content": "the of sushi for a eating .", "line": "the variety of sushi rolls makes for a good eating .", "masks": [1, 4, 5, 8], "label": "label"}
+{"content": "and every experience a one .", "line": "and every experience has been a positive one .", "masks": [3, 4, 6], "label": "label"}
+{"content": "steve and the to in our .", "line": "steve was professional and found exactly the right unit to fit in our space .", "masks": [1, 2, 4, 5, 7, 8, 10, 13], "label": "label"}
+{"content": "this golf one of the in my .", "line": "this golf club is one of the best in my opinion .", "masks": [2, 3, 7, 10], "label": "label"}
+{"content": "dentist and staff !", "line": "excellent knowledgeable dentist and staff !", "masks": [0, 1], "label": "label"}
+{"content": "portions and .", "line": "portions are very generous and food is fantastically flavorful .", "masks": [1, 2, 3, 5, 6, 7, 8], "label": "label"}
+{"content": ", fat , and .", "line": "always fresh , fat , and delicious .", "masks": [0, 1, 6], "label": "label"}
+{"content": "these two women .", "line": "these two women are professionals .", "masks": [3, 4], "label": "label"}
+{"content": "the most , of course , the .", "line": "the most important thing , of course , is the food .", "masks": [2, 3, 8, 10], "label": "label"}
+{"content": "we both so impressed .", "line": "we were both so impressed .", "masks": [1], "label": "label"}
+{"content": "brunch , impressed with selection and .", "line": "very good brunch , was impressed with selection and quality .", "masks": [0, 1, 4, 9], "label": "label"}
+{"content": "the menu , , and .", "line": "the menu is very simple , healthy , and tasty .", "masks": [2, 3, 4, 6, 9], "label": "label"}
+{"content": "she on as they .", "line": "she was spot on as they were delicious .", "masks": [1, 2, 6, 7], "label": "label"}
+{"content": "i this , the service !", "line": "i love this place , the service is always great !", "masks": [1, 3, 7, 8, 9], "label": "label"}
+{"content": "to for !", "line": "perfect spot to shop for gift !", "masks": [0, 1, 3, 5], "label": "label"}
+{"content": "a if you at a .", "line": "a great stop if you want nice things at a steal .", "masks": [1, 2, 5, 6, 7, 10], "label": "label"}
+{"content": "the atmosphere fun and the staff you .", "line": "the atmosphere was fun and the staff treats you well .", "masks": [2, 7, 9], "label": "label"}
+{"content": "their front so much than petsmart !", "line": "their front line is so much cheaper than petsmart !", "masks": [2, 3, 6], "label": "label"}
+{"content": "this a where the customer first and .", "line": "this is a place where still the customer comes first and is treated right .", "masks": [1, 3, 5, 8, 11, 12, 13], "label": "label"}
+{"content": "i also their location off of scottsdale road .", "line": "i also love their convenient location right off of scottsdale road .", "masks": [2, 4, 6], "label": "label"}
+{"content": "their pizza the i ever as their ranch !", "line": "their pizza is the best i have ever had as well as their ranch !", "masks": [2, 4, 6, 8, 9, 10], "label": "label"}
+{"content": "i 'm so and will back for future services .", "line": "i 'm so happy and will definitely go back for future services .", "masks": [3, 6, 7], "label": "label"}
+{"content": "to every thai .", "line": "seems pretty high compared to every other thai place .", "masks": [0, 1, 2, 3, 6, 8], "label": "label"}
+{"content": "she the most .", "line": "she did the most amazing job .", "masks": [1, 4, 5], "label": "label"}
+{"content": "the .", "line": "really enjoyed the beautiful range .", "masks": [0, 1, 3, 4], "label": "label"}
+{"content": "they a selection and a staff .", "line": "they have a fantastic selection and a very knowledgeable staff .", "masks": [1, 3, 7, 8], "label": "label"}
+{"content": "a to in .", "line": "definitely a place to keep in mind .", "masks": [0, 2, 4, 6], "label": "label"}
+{"content": "to out , a meal and a few brews !", "line": "great place to hang out , grab a meal and a few brews !", "masks": [0, 1, 3, 6], "label": "label"}
+{"content": "the lunch and dinner items .", "line": "the lunch and dinner items are very good as well .", "masks": [5, 6, 7, 8, 9], "label": "label"}
+{"content": "charlie and .", "line": "charlie was clean neat and professional .", "masks": [1, 2, 3, 5], "label": "label"}
+{"content": "the calzones and the lunch they .", "line": "the calzones are awesome and the lunch special they have is perfect .", "masks": [2, 3, 7, 9, 10, 11], "label": "label"}
+{"content": "i will !", "line": "i will definitely return often !", "masks": [2, 3, 4], "label": "label"}
+{"content": "they everyday .", "line": "they have delicious soups everyday .", "masks": [1, 2, 3], "label": "label"}
+{"content": "people , service and expert .", "line": "nice people , prompt service and clearly expert .", "masks": [0, 3, 6], "label": "label"}
+{"content": "produce priced and selection of produce .", "line": "produce is very reasonably priced and great selection of organic produce .", "masks": [1, 2, 3, 6, 9], "label": "label"}
+{"content": "the here .", "line": "the food here is delicious .", "masks": [1, 3, 4], "label": "label"}
+{"content": "i in , i i something .", "line": "first time i came in , i knew i just wanted something new .", "masks": [0, 1, 3, 7, 9, 10, 12], "label": "label"}
+{"content": "a if to a performing event .", "line": "certainly a good choice if going to a performing arts center event .", "masks": [0, 2, 3, 5, 9, 10], "label": "label"}
+{"content": "this sushi and for years .", "line": "this place has been making great sushi and sashimi for years .", "masks": [1, 2, 3, 4, 5, 8], "label": "label"}
+{"content": "in summer , they .", "line": "even in summer , they have decent patronage .", "masks": [0, 5, 6, 7], "label": "label"}
+{"content": "you will by all of their advise , and travel knowledge !", "line": "you will be helped by all of their friendly advise , and travel knowledge !", "masks": [2, 3, 8], "label": "label"}
+{"content": "i with my and some wine and .", "line": "i spent time with my best buds and enjoyed some excellent wine and food .", "masks": [1, 2, 5, 6, 8, 10, 13], "label": "label"}
+{"content": "we with a group of eight and all a .", "line": "we went with a group of eight and all had a great time .", "masks": [1, 9, 11, 12], "label": "label"}
+{"content": "the service .", "line": "the service has always been wonderful .", "masks": [2, 3, 4, 5], "label": "label"}
+{"content": "for our an event to .", "line": "thanks for making our special night an event to remember .", "masks": [0, 2, 4, 5, 9], "label": "label"}
+{"content": "i a spanish omelet and .", "line": "i had a spanish omelet was huge and delicious .", "masks": [1, 5, 6, 8], "label": "label"}
+{"content": "they the massage chairs and each manicure station .", "line": "they have the big massage chairs and each manicure station is fairly clean .", "masks": [1, 3, 10, 11, 12], "label": "label"}
+{"content": "the wait staff and !", "line": "the wait staff is extremely attractive and friendly !", "masks": [3, 4, 5, 7], "label": "label"}
+{"content": "also , the !", "line": "also , the food is great !", "masks": [3, 4, 5], "label": "label"}
+{"content": "the that she on my girlfriend 's hair .", "line": "the color that she uses on my girlfriend 's hair looks great .", "masks": [1, 4, 10, 11], "label": "label"}
+{"content": "it and the staff .", "line": "it is consistent and the staff is always friendly .", "masks": [1, 2, 6, 7, 8], "label": "label"}
+{"content": "and with a fun atmosphere and .", "line": "friendly and welcoming with a fun atmosphere and terrific food .", "masks": [0, 2, 8, 9], "label": "label"}
+{"content": "the chimi i !", "line": "the chicken chimi i had was absolutely fantastic !", "masks": [1, 4, 5, 6, 7], "label": "label"}
+{"content": "it also fun to at the bar .", "line": "it is also fun to sit at the bar .", "masks": [1, 5], "label": "label"}
+{"content": "the to for .", "line": "the soup is absolutely to die for .", "masks": [1, 2, 3, 5], "label": "label"}
+{"content": "the mexican in the phoenix area .", "line": "the best mexican food in the phoenix area .", "masks": [1, 3], "label": "label"}
+{"content": "they , and to our .", "line": "they are professional , thorough and attentive to our needs .", "masks": [1, 2, 4, 6, 9], "label": "label"}
+{"content": "their lunch a !", "line": "their lunch special is a great value !", "masks": [2, 3, 5, 6], "label": "label"}
+{"content": "our experience with this .", "line": "our experience with this business was positive .", "masks": [4, 5, 6], "label": "label"}
+{"content": "the staff and location in the of town !", "line": "the staff is awesome and location is right in the heart of old town !", "masks": [2, 3, 6, 7, 10, 12], "label": "label"}
+{"content": "you to outside to the experience from this .", "line": "you have to sit outside to get the best experience from this place .", "masks": [1, 3, 6, 8, 12], "label": "label"}
+{"content": "the and .", "line": "the food is delicious and plentiful .", "masks": [1, 2, 3, 5], "label": "label"}
+{"content": "and the fettuccine alfredo !", "line": "and the fettuccine alfredo is absolutely scrumptious !", "masks": [4, 5, 6], "label": "label"}
+{"content": "we our rental of at this location two weeks ago .", "line": "we dropped our rental truck of at this location two weeks ago .", "masks": [1, 4], "label": "label"}
+{"content": "this the to what an .", "line": "this adds the last little touch to what was already an amazing place .", "masks": [1, 3, 4, 5, 8, 9, 11, 12], "label": "label"}
+{"content": "a but it .", "line": "prices are a tad high but worth it .", "masks": [0, 1, 3, 4, 6], "label": "label"}
+{"content": "the message therapist also .", "line": "the message therapist is awesome also .", "masks": [3, 4], "label": "label"}
+{"content": "here with my family .", "line": "came here with my family .", "masks": [0], "label": "label"}
+{"content": "the owner , i will in half with you .", "line": "the owner replied , i will go in half with you .", "masks": [2, 6], "label": "label"}
+{"content": "the escargot , and .", "line": "the escargot was delicious , and seasoned perfectly .", "masks": [2, 3, 6, 7], "label": "label"}
+{"content": "brittany me a haircut and transformed me .", "line": "brittany gave me a very new haircut and transformed me completely .", "masks": [1, 4, 5, 10], "label": "label"}
+{"content": "this in scottsdale forever and it service .", "line": "this resort has been in scottsdale forever and it truly knows service .", "masks": [1, 2, 3, 9, 10], "label": "label"}
+{"content": "also the wontons along with the plum sauce .", "line": "also the crab wontons rule along with the spicy plum sauce .", "masks": [2, 4, 8], "label": "label"}
+{"content": "i so many at a of a !", "line": "i have gotten so many dresses at a steal of a price !", "masks": [1, 2, 5, 8, 11], "label": "label"}
+{"content": "all to a or two .", "line": "all around great place to grab a drink or two .", "masks": [1, 2, 3, 5, 7], "label": "label"}
+{"content": "the flourless chocolate one of the desserts i 've ever .", "line": "the flourless chocolate cake was one of the best desserts i 've ever had .", "masks": [3, 4, 8, 13], "label": "label"}
+{"content": "scenery and staff .", "line": "beautiful scenery and friend staff .", "masks": [0, 3], "label": "label"}
+{"content": "wine list at 2x retail than the more 3x .", "line": "nice wine list at 2x retail rather than the more typical 3x .", "masks": [0, 6, 10], "label": "label"}
+{"content": "we our on the river and ca n't to back !", "line": "we loved our day on the river and ca n't wait to go back !", "masks": [1, 3, 10, 12], "label": "label"}
+{"content": "if you 're and into this the for you .", "line": "if you 're young and are into sports this is the place for you .", "masks": [3, 5, 7, 9, 11], "label": "label"}
+{"content": "i their collection .", "line": "i love their star design collection .", "masks": [1, 3, 4], "label": "label"}
+{"content": "i their .", "line": "i love their fresh juices as well .", "masks": [1, 3, 4, 5, 6], "label": "label"}
+{"content": "a must if you in the phoenix area .", "line": "definitely a must do if you have time in the phoenix area .", "masks": [0, 3, 6, 7], "label": "label"}
+{"content": "oj and jeremy a !", "line": "oj and jeremy did a great job !", "masks": [3, 5, 6], "label": "label"}
+{"content": "tires , alignment , brakes and more .", "line": "tires , alignment , brakes and more .", "masks": [], "label": "label"}
+{"content": "it to !", "line": "it was very good to !", "masks": [1, 2, 3], "label": "label"}
+{"content": "staff : and .", "line": "staff : very cute and friendly .", "masks": [2, 3, 5], "label": "label"}
+{"content": "the afternoon - tea at the phoenician .", "line": "love the afternoon - tea at the phoenician .", "masks": [0], "label": "label"}
+{"content": "their enchilada sauce complemented this .", "line": "their enchilada sauce perfectly complemented this dish .", "masks": [3, 6], "label": "label"}
+{"content": "decoration and service .", "line": "beautiful decoration and great service .", "masks": [0, 3], "label": "label"}
+{"content": "with service and of .", "line": "very pleased with service and quality of work .", "masks": [0, 1, 5, 7], "label": "label"}
+{"content": "one of my to for a steak .", "line": "one of my favorite places to go for a great steak .", "masks": [3, 4, 6, 9], "label": "label"}
+{"content": "this !", "line": "this place is super yummy !", "masks": [1, 2, 3, 4], "label": "label"}
+{"content": "they spacious with decor .", "line": "they are spacious with modest decor .", "masks": [1, 4], "label": "label"}
+{"content": "this my go to .", "line": "this is my go to neighborhood place .", "masks": [1, 5, 6], "label": "label"}
+{"content": "the people at sonora to me .", "line": "the people at sonora were very good to me .", "masks": [4, 5, 6], "label": "label"}
+{"content": "the patio a fun to at 7pm .", "line": "the patio is a fun place to sit at 7pm .", "masks": [2, 5, 7], "label": "label"}
+{"content": "it it .", "line": "it was well worth it .", "masks": [1, 2, 3], "label": "label"}
+{"content": "oh sushi kee , how i thee !", "line": "oh sushi kee , how i love thee !", "masks": [6], "label": "label"}
+{"content": "she our and us .", "line": "she kept our drinks full and gave us great food recommendations .", "masks": [1, 3, 4, 6, 8, 9, 10], "label": "label"}
+{"content": "the burgers , i the jalapeo ranch burger it .", "line": "loved the burgers , i had the jalapeo ranch burger it was really tasty .", "masks": [0, 5, 11, 12, 13], "label": "label"}
+{"content": "kebab and service .", "line": "great kebab dishes and good service .", "masks": [0, 2, 4], "label": "label"}
+{"content": "i a bagel breakfast sandwich and it !", "line": "i got a bagel breakfast sandwich and it was delicious !", "masks": [1, 8, 9], "label": "label"}
+{"content": "the service and the staff .", "line": "the service was amazing and the staff was very friendly .", "masks": [2, 3, 7, 8, 9], "label": "label"}
+{"content": "tables and this a out !", "line": "pool tables and inexpensive drinks make this a fun night out !", "masks": [0, 3, 4, 5, 8, 9], "label": "label"}
+{"content": "the eggs fluffy , the of fruit .", "line": "the eggs are always fluffy , the side of fruit always good .", "masks": [2, 3, 7, 10, 11], "label": "label"}
+{"content": "pricing both affordable and .", "line": "pricing is both affordable and reasonable .", "masks": [1, 5], "label": "label"}
+{"content": "these guys top , and .", "line": "these guys are top notch , honest and very reasonable .", "masks": [2, 4, 6, 8, 9], "label": "label"}
+{"content": "they me like i at and their an family !", "line": "they made me feel like i was at home and their an extended family !", "masks": [1, 3, 6, 8, 12], "label": "label"}
+{"content": "sometimes it 's a , more .", "line": "sometimes it 's a simple cut , other times is more complicated color .", "masks": [4, 5, 7, 8, 9, 11, 12], "label": "label"}
+{"content": "an for customer service .", "line": "giving an extra star for customer service .", "masks": [0, 2, 3], "label": "label"}
+{"content": "it 's a of .", "line": "it 's a big bowl of sweet happiness .", "masks": [3, 4, 6, 7], "label": "label"}
+{"content": "one of my chinese to !", "line": "one of my favorite chinese place to eat !", "masks": [3, 5, 7], "label": "label"}
+{"content": "after the river .", "line": "always good after the river too .", "masks": [0, 1, 5], "label": "label"}
+{"content": ", a a .", "line": "food good , a plate went a long way .", "masks": [0, 1, 4, 5, 7, 8], "label": "label"}
+{"content": "the service and would back .", "line": "the service was great and would gladly go back .", "masks": [2, 3, 6, 7], "label": "label"}
+{"content": "i the pork tacos .", "line": "i love the pork tacos .", "masks": [1], "label": "label"}
+{"content": "everyone and .", "line": "everyone is friendly and knowledgeable .", "masks": [1, 2, 4], "label": "label"}
+{"content": "nothing but from anyone i their !", "line": "nothing but happy thoughts from anyone i have sent their way !", "masks": [2, 3, 7, 8, 10], "label": "label"}
+{"content": "the dolly a .", "line": "enjoyed the dolly a lot .", "masks": [0, 4], "label": "label"}
+{"content": "jennifer and she skin affordable .", "line": "jennifer is great and she really makes skin care affordable .", "masks": [1, 2, 5, 6, 8], "label": "label"}
+{"content": "this a and i to it .", "line": "this is a rare gem and i am excited to have found it .", "masks": [1, 3, 4, 7, 8, 10, 11], "label": "label"}
+{"content": "this darn pizza !", "line": "this is pretty darn good pizza !", "masks": [1, 2, 4], "label": "label"}
+{"content": "everything we 've ever here .", "line": "everything we 've ever ordered here has been great tasting .", "masks": [4, 6, 7, 8, 9], "label": "label"}
+{"content": "it the most thai in the valley .", "line": "it is the most authentic thai in the valley .", "masks": [1, 4], "label": "label"}
+{"content": "staff and .", "line": "great staff and wonderful food .", "masks": [0, 3, 4], "label": "label"}
+{"content": "the mole sauce , and .", "line": "love the mole sauce , chips are nice and thick .", "masks": [0, 5, 6, 7, 9], "label": "label"}
+{"content": "here , you will it .", "line": "go here , you will love it .", "masks": [0, 5], "label": "label"}
+{"content": "i the more than the .", "line": "i loved the ribs more than the chicken .", "masks": [1, 3, 7], "label": "label"}
+{"content": "staff and the .", "line": "staff and the ride were terrific .", "masks": [3, 4, 5], "label": "label"}
+{"content": "also , we we our for .", "line": "also , we were pleasantly surprised last time we brought our dogs for shots .", "masks": [3, 4, 5, 6, 7, 9, 11, 13], "label": "label"}
+{"content": "i reccomend the noodles ( for you ! )", "line": "i reccomend the drunken dragon noodles ( for you spicy lovers ! )", "masks": [3, 4, 9, 10], "label": "label"}
+{"content": "for a local chain this !", "line": "for a local chain this place is great !", "masks": [5, 6, 7], "label": "label"}
+{"content": "this reminds me of !", "line": "this place reminds me of home !", "masks": [1, 5], "label": "label"}
+{"content": "one of my in scottsdale .", "line": "one of my regular spots in scottsdale .", "masks": [3, 4], "label": "label"}
+{"content": "i will here again !", "line": "i will definitely go here again !", "masks": [2, 3], "label": "label"}
+{"content": "in for lunch , wine list , service .", "line": "stopped in for lunch , nice wine list , good service .", "masks": [0, 5, 9], "label": "label"}
+{"content": "i that this the in the - family .", "line": "i love that this is the place in the comic - family circus .", "masks": [1, 4, 6, 9, 12], "label": "label"}
+{"content": "it an .", "line": "it is an international delight .", "masks": [1, 3, 4], "label": "label"}
+{"content": "it so and !", "line": "it was just so cute and quaint !", "masks": [1, 2, 4, 6], "label": "label"}
+{"content": "i the seating and the hour affordable .", "line": "i love the outside seating and the reverse happy hour is incredibly affordable .", "masks": [1, 3, 7, 8, 10, 11], "label": "label"}
+{"content": "the atmosphere at the sugar fun .", "line": "the atmosphere is at the sugar bowl is fun .", "masks": [2, 6, 7], "label": "label"}
+{"content": "with that being , i the .", "line": "with that being said , i enjoyed the food .", "masks": [3, 6, 8], "label": "label"}
+{"content": ", decor !", "line": "great food , great decor !", "masks": [0, 1, 3], "label": "label"}
+{"content": "the .", "line": "the food is always fresh .", "masks": [1, 2, 3, 4], "label": "label"}
+{"content": "you can in , any of money and something .", "line": "you can come in , spend any amount of money and enjoy something amazing .", "masks": [2, 5, 7, 11, 13], "label": "label"}
+{"content": "all of the that i .", "line": "all of the food that i had was excellent .", "masks": [3, 6, 7, 8], "label": "label"}
+{"content": "so , customer service .", "line": "so far , great customer service .", "masks": [1, 3], "label": "label"}
+{"content": "rick a guy !", "line": "rick is a seriously cool guy !", "masks": [1, 3, 4], "label": "label"}
+{"content": "we here yesterday for hour and it .", "line": "we ate here yesterday for happy hour and it was fantastic .", "masks": [1, 5, 9, 10], "label": "label"}
+{"content": "that 's a in a .", "line": "that 's a rare find in a business .", "masks": [3, 4, 7], "label": "label"}
+{"content": "it 's .", "line": "it 's good solid food .", "masks": [2, 3, 4], "label": "label"}
+{"content": "layout the course in to .", "line": "nice club good layout the course was in good to above average shape .", "masks": [0, 1, 2, 6, 8, 10, 11, 12], "label": "label"}
+{"content": "we 'll back !", "line": "we 'll certainly be back !", "masks": [2, 3], "label": "label"}
+{"content": "the meatloaf ( when they it ) .", "line": "the meatloaf ( when they have it ) is amazing .", "masks": [5, 8, 9], "label": "label"}
+{"content": "here also so !", "line": "food here is also so good !", "masks": [0, 2, 5], "label": "label"}
+{"content": "thank you amanda , i will back !", "line": "thank you amanda , i will be back !", "masks": [6], "label": "label"}
+{"content": "i their coffee .", "line": "i love their flavored coffee .", "masks": [1, 3], "label": "label"}
+{"content": "the staff us and .", "line": "the staff made us feel very welcome and comfortable .", "masks": [2, 4, 5, 6, 8], "label": "label"}
+{"content": "the and from what i can .", "line": "the food is good and from what i can tell is rather authentic .", "masks": [1, 2, 3, 9, 10, 11, 12], "label": "label"}
+{"content": "i would dentistry of town scottsdale to everyone .", "line": "i would recommend dentistry of old town scottsdale to everyone .", "masks": [2, 5], "label": "label"}
+{"content": "my father decided to my mothers engagement this xmas .", "line": "my father has decided to upgrade my mothers engagement ring this xmas .", "masks": [2, 5, 9], "label": "label"}
+{"content": "the deals in the store on these .", "line": "the best deals in the store are on these racks .", "masks": [1, 6, 9], "label": "label"}
+{"content": "the guys here sooo and .", "line": "the guys here are sooo incredibly nice and helpful .", "masks": [3, 5, 6, 8], "label": "label"}
+{"content": "will all my vehicles back for !", "line": "will bring all my vehicles back for sure !", "masks": [1, 7], "label": "label"}
+{"content": "the salsa although i will for a one .", "line": "the salsa was fantastic although next time i will ask for a hotter one .", "masks": [2, 3, 5, 6, 9, 12], "label": "label"}
+{"content": "to some and donuts .", "line": "great place to have some fresh and delicious donuts .", "masks": [0, 1, 3, 5, 7], "label": "label"}
+{"content": "here to breakfast and that the .", "line": "came here to get breakfast and that was the best decision yet .", "masks": [0, 3, 7, 9, 10, 11], "label": "label"}
+{"content": "they an selection of combos to choose from .", "line": "they have an excellent selection of combos to choose from .", "masks": [1, 3], "label": "label"}
+{"content": "they , but fluffy and .", "line": "they were great , not too greasy but fluffy and light .", "masks": [1, 2, 4, 5, 6, 10], "label": "label"}
+{"content": "selection of salads and pasta items in the deli .", "line": "great selection of salads and pasta items in the deli .", "masks": [0], "label": "label"}
+{"content": "overall and service .", "line": "overall really good quality food and service .", "masks": [1, 2, 3, 4], "label": "label"}
+{"content": "everyone and .", "line": "everyone was extremely nice and professional .", "masks": [1, 2, 3, 5], "label": "label"}
+{"content": "i the tamale .", "line": "i got the tamale sampler .", "masks": [1, 4], "label": "label"}
+{"content": "also and .", "line": "also matt was super cool and helpful .", "masks": [1, 2, 3, 4, 6], "label": "label"}
+{"content": "my , of .", "line": "cleaned my plate , perfect amount of food .", "masks": [0, 2, 4, 5, 7], "label": "label"}
+{"content": "and again , the !", "line": "and again , the food is incredibly delicious !", "masks": [4, 5, 6, 7], "label": "label"}
+{"content": "but it the wait .", "line": "but it is definitely worth the wait .", "masks": [2, 3, 4], "label": "label"}
+{"content": "grimaldi 's the most pizza in arizona .", "line": "grimaldi 's is the most consistently amazing pizza place in arizona .", "masks": [2, 5, 6, 8], "label": "label"}
+{"content": "nothing but customer service every i here .", "line": "nothing but excellent customer service every time i come here .", "masks": [2, 6, 8], "label": "label"}
+{"content": "service by the staff .", "line": "great service by the staff .", "masks": [0], "label": "label"}
+{"content": "i also dessert here when i a .", "line": "i also get dessert here when i have a sweet tooth .", "masks": [2, 7, 9, 10], "label": "label"}
+{"content": "i a here to .", "line": "i always have a great dish here to eat .", "masks": [1, 2, 4, 5, 8], "label": "label"}
+{"content": "this by my pizza .", "line": "this is by far my favorite pizza .", "masks": [1, 3, 5], "label": "label"}
+{"content": "the bartender and quick to us especially with the crowd .", "line": "the bartender was super friendly and quick to help us especially with the crowd .", "masks": [2, 3, 4, 8], "label": "label"}
+{"content": "service as they continued to on our table .", "line": "service was great as they continued to check on our table .", "masks": [1, 2, 7], "label": "label"}
+{"content": "thank you for !", "line": "thank you ladies for being awesome !", "masks": [2, 4, 5], "label": "label"}
+{"content": "and service , these guys their .", "line": "awesome and fast service , these guys really know their stuff .", "masks": [0, 2, 7, 8, 10], "label": "label"}
+{"content": "a museum to .", "line": "a great museum to visit .", "masks": [1, 4], "label": "label"}
+{"content": "for me to and and a breakfast !", "line": "nice for me to go and work and have a great breakfast !", "masks": [0, 4, 6, 8, 10], "label": "label"}
+{"content": "and at least once a month .", "line": "okay prices and great tastings at least once a month .", "masks": [0, 1, 3, 4], "label": "label"}
+{"content": "our waitress the , .", "line": "our waitress was the best , very accommodating .", "masks": [2, 4, 6, 7], "label": "label"}
+{"content": "while the menu , what it offer .", "line": "while the menu is simple , what it does offer is truly first-rate .", "masks": [3, 4, 8, 10, 11, 12], "label": "label"}
+{"content": "its but you here .", "line": "its not cheap but you get good value here .", "masks": [1, 2, 5, 6, 7], "label": "label"}
+{"content": "menu , , service - for both dinner and breakfast !", "line": "nice menu , good prices , great service - for both dinner and breakfast !", "masks": [0, 3, 4, 6], "label": "label"}
+{"content": ", on wings on tuesdays .", "line": "good food , great prices on wings on tuesdays .", "masks": [0, 1, 3, 4], "label": "label"}
+{"content": "the but the service !", "line": "the place was busy but the service was excellent !", "masks": [1, 2, 3, 7, 8], "label": "label"}
+{"content": "tonight though i to and the .", "line": "tonight though i ordered to go and the food was just as good .", "masks": [3, 5, 8, 9, 10, 11, 12], "label": "label"}
+{"content": "this some .", "line": "this place has some great food .", "masks": [1, 2, 4, 5], "label": "label"}
+{"content": "the two men up so kind .", "line": "the two gentle men up front are always so kind .", "masks": [2, 5, 6, 7], "label": "label"}
+{"content": "the salsa , the fish top , the .", "line": "the salsa is great , the fish top notch , the drinks just excellent .", "masks": [2, 3, 8, 11, 12, 13], "label": "label"}
+{"content": "i this so i about purchasing a franchise .", "line": "i like this place so much i have actually inquired about purchasing a franchise .", "masks": [1, 3, 5, 7, 8, 9], "label": "label"}
+{"content": "and the seafood enchiladas !", "line": "and the seafood enchiladas were great !", "masks": [4, 5], "label": "label"}
+{"content": "the bread home and i could probably it all .", "line": "the bread is definitely home made and i could probably eat it all day .", "masks": [2, 3, 5, 10, 13], "label": "label"}
+{"content": "the portions , the out , and .", "line": "the portions were huge , the food came out hot , fresh and good .", "masks": [2, 3, 6, 7, 9, 11, 13], "label": "label"}
+{"content": "a on the noisy but the up for it .", "line": "a bit on the noisy side but the fresh food makes up for it .", "masks": [1, 5, 8, 9, 10], "label": "label"}
+{"content": "ambiance and setting .", "line": "ambiance and setting were superb .", "masks": [3, 4], "label": "label"}
+{"content": "pizza to and !", "line": "pizza was cooked to perfection and fast !", "masks": [1, 2, 4, 6], "label": "label"}
+{"content": "our bartender erik of my fiance and i .", "line": "our bartender erik took care of my fiance and i very well .", "masks": [3, 4, 10, 11], "label": "label"}
+{"content": "everyone who there so and .", "line": "everyone who works there is always so happy and friendly .", "masks": [2, 4, 5, 7, 9], "label": "label"}
+{"content": "i the cornbread appetizer .", "line": "i love the cornbread appetizer .", "masks": [1], "label": "label"}
+{"content": "the huevos rancheros and it !", "line": "ordered the huevos rancheros and it was delicious !", "masks": [0, 6, 7], "label": "label"}
+{"content": "the customer service in this location !", "line": "the customer service in this location is great !", "masks": [6, 7], "label": "label"}
+{"content": "the firecracker shrimp and also a .", "line": "the firecracker shrimp and duck is also always a winner .", "masks": [4, 5, 7, 9], "label": "label"}
+{"content": "service to !", "line": "service was wonderful to match !", "masks": [1, 2, 4], "label": "label"}
+{"content": "the service and .", "line": "the service is friendly and attentive .", "masks": [2, 3, 5], "label": "label"}
+{"content": "and service !", "line": "great food and awesome service !", "masks": [0, 1, 3], "label": "label"}
+{"content": "this ass .", "line": "this place still kicks ass .", "masks": [1, 2, 3], "label": "label"}
+{"content": "biscuits and a breakfast item .", "line": "biscuits and gravy are a great breakfast item too .", "masks": [2, 3, 5, 8], "label": "label"}
+{"content": "a experience there with the owner and the of the team .", "line": "always a great experience there with the owner and the rest of the team .", "masks": [0, 2, 10], "label": "label"}
+{"content": "searching out this .", "line": "well worth searching out this gem .", "masks": [0, 1, 5], "label": "label"}
+{"content": "my husband and i our 3rd anniversary here .", "line": "my husband and i enjoyed our 3rd anniversary here .", "masks": [4], "label": "label"}
+{"content": "this a golf course that tucked it in .", "line": "this is a golf course that is tucked away it is in great condition .", "masks": [1, 6, 8, 10, 12, 13], "label": "label"}
+{"content": "plus my wine delish !", "line": "plus my sparkling wine flights were delish !", "masks": [2, 4, 5], "label": "label"}
+{"content": "but the cheese pies !", "line": "pricy but the cheese pies are delicious !", "masks": [0, 5, 6], "label": "label"}
+{"content": "the bbq salmon .", "line": "the bbq salmon was good .", "masks": [3, 4], "label": "label"}
+{"content": "the part of my thanksgiving dinner by pecan pie .", "line": "the best part of my thanksgiving dinner by far was sweet cakes pecan pie .", "masks": [1, 8, 9, 10, 11], "label": "label"}
+{"content": "their veggies .", "line": "even their steamed veggies are amazing .", "masks": [0, 2, 4, 5], "label": "label"}
+{"content": "this a must if you 're a bride to !", "line": "this place is a must go if you 're a bride to be !", "masks": [1, 2, 5, 12], "label": "label"}
+{"content": "combination of , .", "line": "excellent combination of flavors , very unique .", "masks": [0, 3, 5, 6], "label": "label"}
+{"content": "mustard a .", "line": "mustard beef ribs are a must .", "masks": [1, 2, 3, 5], "label": "label"}
+{"content": "i the burger once and it and !", "line": "i had the burger once and it was juicy and very flavorful !", "masks": [1, 7, 8, 10, 11], "label": "label"}
+{"content": "i the experience as .", "line": "i rate the experience as followed .", "masks": [1, 5], "label": "label"}
+{"content": "the tzatziki sauce with everything you !", "line": "always order the tzatziki sauce with everything you get !", "masks": [0, 1, 8], "label": "label"}
+{"content": "my meal and .", "line": "my meal was very satisfying and flavorful .", "masks": [2, 3, 4, 6], "label": "label"}
+{"content": "anything on the menu and you will you in !", "line": "try anything on the menu and you will be glad you came in !", "masks": [0, 8, 9, 11], "label": "label"}
+{"content": "bartender a martini !", "line": "bartender made a great dirty martini !", "masks": [1, 3, 4], "label": "label"}
+{"content": "omg carlsbad tavern !", "line": "omg carlsbad tavern is awesome !", "masks": [3, 4], "label": "label"}
+{"content": "than that , it 's !", "line": "other than that , it 's great !", "masks": [0, 6], "label": "label"}
+{"content": "breakfast i on my recent to scottsdale .", "line": "best breakfast i had on my recent trip to scottsdale .", "masks": [0, 3, 7], "label": "label"}
+{"content": "and a person .", "line": "extremely attentive and genuinely a good person .", "masks": [0, 1, 3, 5], "label": "label"}
+{"content": "it 's , traditional , mexican that homemade and .", "line": "it 's basic , traditional , mexican food that is homemade and tastes great .", "masks": [2, 7, 9, 12, 13], "label": "label"}
+{"content": "and !", "line": "food is very fresh and amazing !", "masks": [0, 1, 2, 3, 5], "label": "label"}
+{"content": "the environment , the servers and on of .", "line": "the environment was cozy , the servers were friendly and on top of things .", "masks": [2, 3, 7, 8, 11, 13], "label": "label"}
+{"content": "fish tacos .", "line": "fish tacos were pretty good .", "masks": [2, 3, 4], "label": "label"}
+{"content": "down the dentist office in the east valley !", "line": "absolutely hands down the best dentist office in the east valley !", "masks": [0, 1, 4], "label": "label"}
+{"content": "they all .", "line": "they are all very friendly .", "masks": [1, 3, 4], "label": "label"}
+{"content": "he and so when i him up !", "line": "he always looks gorgeous and is so happy when i pick him up !", "masks": [1, 2, 3, 5, 7, 10], "label": "label"}
+{"content": "i italian and i here .", "line": "i love italian and i eat here often .", "masks": [1, 5, 7], "label": "label"}
+{"content": "of .", "line": "quality of food is fantastic .", "masks": [0, 2, 3, 4], "label": "label"}
+{"content": "the service and my hostess and .", "line": "the service was excellent and my hostess was very nice and helpful .", "masks": [2, 3, 7, 8, 9, 11], "label": "label"}
+{"content": "the bar in town .", "line": "the best bar in town .", "masks": [1], "label": "label"}
+{"content": "they a .", "line": "they are always doing a good job .", "masks": [1, 2, 3, 5, 6], "label": "label"}
+{"content": "russ a tech .", "line": "russ was a well qualified tech .", "masks": [1, 3, 4], "label": "label"}
+{"content": "when we into town , this the we !", "line": "when we get into town , this is the first place we come !", "masks": [2, 7, 9, 10, 12], "label": "label"}
+{"content": "thank you fiesta , lunch with you .", "line": "thank you fiesta , lunch with you is always good .", "masks": [7, 8, 9], "label": "label"}
+{"content": "they also the in the area .", "line": "they also are the best price in the area .", "masks": [2, 4, 5], "label": "label"}
+{"content": "chile chimis .", "line": "green chile chimis are fantastic .", "masks": [0, 3, 4], "label": "label"}
+{"content": "for the repair .", "line": "thanks for the perfect repair .", "masks": [0, 3], "label": "label"}
+{"content": "atmosphere , .", "line": "casual atmosphere , upscale food .", "masks": [0, 3, 4], "label": "label"}
+{"content": "dinner here and it .", "line": "had dinner here last night and it was great .", "masks": [0, 3, 4, 7, 8], "label": "label"}
+{"content": "the marinara sauce so .", "line": "the marinara sauce is so flavorful .", "masks": [3, 5], "label": "label"}
+{"content": "they and .", "line": "they are incredibly nice and accommodating .", "masks": [1, 2, 3, 5], "label": "label"}
+{"content": "the service top and the a of heaven .", "line": "the service was top notch and the food was a bit of heaven .", "masks": [2, 4, 7, 8, 10], "label": "label"}
+{"content": "it can , but it it .", "line": "it can be pricey , but it is really worth it .", "masks": [2, 3, 7, 8, 9], "label": "label"}
+{"content": "staff , , .", "line": "wonderful staff , wonderful food , excellent prices .", "masks": [0, 3, 4, 6, 7], "label": "label"}
+{"content": "portions n !", "line": "portions n prices were great !", "masks": [2, 3, 4], "label": "label"}
+{"content": "every person themselves and there nothing but from our group .", "line": "every person enjoyed themselves and there was nothing but praise from our entire group .", "masks": [2, 6, 9, 12], "label": "label"}
+{"content": "persian to mention service .", "line": "outstanding persian food not to mention service .", "masks": [0, 2, 3], "label": "label"}
+{"content": "thank you for a evening !", "line": "thank you for a fabulous evening !", "masks": [4], "label": "label"}
+{"content": "my daughter .", "line": "my daughter received great care .", "masks": [2, 3, 4], "label": "label"}
+{"content": ", priced and they the phone when .", "line": "thorough , reasonably priced and they answer the phone when called promptly .", "masks": [0, 2, 6, 10, 11], "label": "label"}
+{"content": "they and .", "line": "they were very friendly and apologetic .", "masks": [1, 2, 3, 5], "label": "label"}
+{"content": "the wine list the part .", "line": "the wine list was the best part .", "masks": [3, 5], "label": "label"}
+{"content": "it 's a than the .", "line": "it 's a much better option than the club scene .", "masks": [3, 4, 5, 8, 9], "label": "label"}
+{"content": "i the carne asada steak and it !", "line": "i ordered the carne asada steak and it was cooked perfectly !", "masks": [1, 8, 9, 10], "label": "label"}
+{"content": "that with the location though .", "line": "that comes with the smaller location though .", "masks": [1, 4], "label": "label"}
+{"content": "fun to drink beer .", "line": "fun place to go drink beer .", "masks": [1, 3], "label": "label"}
+{"content": "it family oriented and we that !", "line": "it is very very family oriented and we loved that too !", "masks": [1, 2, 3, 8, 10], "label": "label"}
+{"content": "the .", "line": "even the sides were great .", "masks": [0, 2, 3, 4], "label": "label"}
+{"content": "she an on my and my !", "line": "she did an amazing job on my color and my cut !", "masks": [1, 3, 4, 7, 10], "label": "label"}
+{"content": "the owner a and the .", "line": "the owner is a hoot and the facility is very accommodating .", "masks": [2, 4, 7, 8, 9, 10], "label": "label"}
+{"content": "will back i 'm in town .", "line": "totally will come back next time i 'm in town .", "masks": [0, 2, 4, 5], "label": "label"}
+{"content": "he both and .", "line": "he was both professional and courteous .", "masks": [1, 3, 5], "label": "label"}
+{"content": "this course one of the in the area .", "line": "this course is one of the finest in the area .", "masks": [2, 6], "label": "label"}
+{"content": "if you 're into that of by and it out !", "line": "if you 're into that sort of thing stop by and check it out !", "masks": [5, 7, 8, 11], "label": "label"}
+{"content": "i here for lunch to the slices .", "line": "i enjoy coming here for lunch to get the slices .", "masks": [1, 2, 7], "label": "label"}
+{"content": "it a half a from phoenix area .", "line": "it is a half a day trip from phoenix area .", "masks": [1, 5, 6], "label": "label"}
+{"content": "the of this !", "line": "love the vibe of this place !", "masks": [0, 2, 5], "label": "label"}
+{"content": "the staff all and on of there .", "line": "the staff are all super friendly and on top of there jobs .", "masks": [2, 4, 5, 8, 11], "label": "label"}
+{"content": "bread also !", "line": "corn bread was also good !", "masks": [0, 2, 4], "label": "label"}
+{"content": "and priced .", "line": "food super and well priced .", "masks": [0, 1, 3], "label": "label"}
+{"content": "they the climb .", "line": "they loved the rock climb .", "masks": [1, 3], "label": "label"}
+{"content": "and a deal than the chain sub joints .", "line": "super tasty and a much better deal than the chain sub joints .", "masks": [0, 1, 4, 5], "label": "label"}
+{"content": "by the experience i ever in a auto shop .", "line": "by far the best experience i have ever had in a auto shop .", "masks": [1, 3, 6, 8], "label": "label"}
+{"content": "so with my to here .", "line": "so happy with my decision to go here .", "masks": [1, 4, 6], "label": "label"}
+{"content": "it and they videos .", "line": "it was pretty inexpensive and they played good music videos .", "masks": [1, 2, 3, 6, 7, 8], "label": "label"}
+{"content": "throwback atmosphere ; vintage ice parlor .", "line": "very throwback atmosphere ; vintage ice cream parlor .", "masks": [0, 6], "label": "label"}
+{"content": "at the bar and the .", "line": "sit at the bar and eat the small plates .", "masks": [0, 5, 7, 8], "label": "label"}
+{"content": "the grounds .", "line": "the grounds are always very clean .", "masks": [2, 3, 4, 5], "label": "label"}
+{"content": "i from a stay at the camelback .", "line": "i just returned from a delightful stay at the camelback .", "masks": [1, 2, 5], "label": "label"}
+{"content": "a steak , shrimp and an enchilada .", "line": "a steak , shrimp and an enchilada .", "masks": [], "label": "label"}
+{"content": "they and beyond !", "line": "they go above and beyond !", "masks": [1, 2], "label": "label"}
+{"content": "i 've here and every .", "line": "i 've been here several times and every time has been great .", "masks": [2, 4, 5, 8, 9, 10, 11], "label": "label"}
+{"content": "the that my the visit .", "line": "the good news that my vision had improved made the visit even better .", "masks": [1, 2, 5, 6, 7, 8, 11, 12], "label": "label"}
+{"content": "it such a to and .", "line": "it is such a cool little place to relax and get swanky .", "masks": [1, 4, 5, 6, 8, 10, 11], "label": "label"}
+{"content": "we & american auto service to everyone we .", "line": "we recommend imports & american auto service to everyone we know .", "masks": [1, 2, 10], "label": "label"}
+{"content": "the and , at all .", "line": "the girls are very attractive and really friendly , not pushy at all .", "masks": [1, 2, 3, 4, 6, 7, 9, 10], "label": "label"}
+{"content": "its and people here .", "line": "its quiet and nice people are here .", "masks": [1, 3, 5], "label": "label"}
+{"content": "home the most pizza since here in az .", "line": "took home the most delicious white pizza since living here in az .", "masks": [0, 4, 5, 8], "label": "label"}
+{"content": "after gyro the sauce .", "line": "after eating several other gyro place kings still has the best sauce .", "masks": [1, 2, 3, 5, 6, 7, 8, 10], "label": "label"}
+{"content": "service and .", "line": "service was great and food was even better .", "masks": [1, 2, 4, 5, 6, 7], "label": "label"}
+{"content": "suzanne and her staff !", "line": "suzanne and her staff were excellent !", "masks": [4, 5], "label": "label"}
+{"content": "all in all !", "line": "all in all pretty good !", "masks": [3, 4], "label": "label"}
+{"content": "fast , and service .", "line": "fast , friendly and honest service .", "masks": [2, 4], "label": "label"}
+{"content": ", service , their catering can .", "line": "great food , great service , their catering can not be beat .", "masks": [0, 1, 3, 9, 10, 11], "label": "label"}
+{"content": "i the pork belly here ever !", "line": "i had the best pork belly here ever !", "masks": [1, 3], "label": "label"}
+{"content": "you can how the ingredients .", "line": "you can tell how fresh the ingredients are .", "masks": [2, 4, 7], "label": "label"}
+{"content": "i 'll back here again .", "line": "i 'll definitely go back here again .", "masks": [2, 3], "label": "label"}
+{"content": "or , this and a .", "line": "coupon or not , this place is extra nice and a very good value .", "masks": [0, 2, 5, 6, 7, 8, 11, 12, 13], "label": "label"}
+{"content": "this the seafood joint in town .", "line": "this is the best seafood joint in town .", "masks": [1, 3], "label": "label"}
+{"content": "up the service !", "line": "keep up the amazing service !", "masks": [0, 3], "label": "label"}
+{"content": "every i mexican , i here !", "line": "every time i crave mexican food , i go here !", "masks": [1, 3, 5, 8], "label": "label"}
+{"content": "my dr pepper and .", "line": "my dr pepper ribs were excellent and very tender .", "masks": [3, 4, 5, 7, 8], "label": "label"}
+{"content": "everyone and .", "line": "everyone is always super friendly and helpful .", "masks": [1, 2, 3, 4, 6], "label": "label"}
+{"content": "it 's , , and !", "line": "it 's hot , cooked perfectly , and delicious !", "masks": [2, 4, 5, 8], "label": "label"}
+{"content": "travel around the world and indian .", "line": "travel all around the world and know indian food well .", "masks": [1, 6, 8, 9], "label": "label"}
+{"content": "location for weekend volleyball tournaments !", "line": "very nice location for weekend volleyball tournaments !", "masks": [0, 1], "label": "label"}
+{"content": ", to a few we here .", "line": ", to name a few shows we have seen here .", "masks": [2, 5, 7, 8], "label": "label"}
+{"content": "my family here the .", "line": "enjoy taking my family here always the freshest sea food .", "masks": [0, 1, 5, 7, 8, 9], "label": "label"}
+{"content": "owners and staff and !", "line": "friendly owners and staff and delicious food !", "masks": [0, 5, 6], "label": "label"}
+{"content": "they will to the school !", "line": "they will even deliver to the school !", "masks": [2, 3], "label": "label"}
+{"content": "ron the .", "line": "ron is still the greatest .", "masks": [1, 2, 4], "label": "label"}
+{"content": "family owned and i restaurant with .", "line": "family owned little and i mean little restaurant with absolutely amazing food .", "masks": [2, 5, 6, 9, 10, 11], "label": "label"}
+{"content": "selection of and cheeses .", "line": "decent selection of meats and cheeses .", "masks": [0, 3], "label": "label"}
+{"content": "the gyro sandwich with their sauce ... .", "line": "had the normal gyro sandwich with their sauce ... very good .", "masks": [0, 2, 9, 10], "label": "label"}
+{"content": "i probably one of the restaurant experiences i 've ever .", "line": "i just had probably one of the best restaurant experiences i 've ever had .", "masks": [1, 2, 7, 13], "label": "label"}
+{"content": "tamales .", "line": "best green corn tamales around .", "masks": [0, 1, 2, 4], "label": "label"}
+{"content": "everything they there .", "line": "everything they serve there is wonderful .", "masks": [2, 4, 5], "label": "label"}
+{"content": "to the kitchen in rush hour .", "line": "fun to watch the kitchen in rush hour .", "masks": [0, 2], "label": "label"}
+{"content": "and , priced .", "line": "place was clean and well kept , drinks were reasonably priced .", "masks": [0, 1, 2, 4, 5, 7, 8, 9], "label": "label"}
+{"content": "the employees me and my , which .", "line": "the employees always remember me and my dog , which is very nice .", "masks": [2, 3, 7, 10, 11, 12], "label": "label"}
+{"content": "we to as a family .", "line": "we love to come as a family .", "masks": [1, 3], "label": "label"}
+{"content": "they also my apartment which to .", "line": "they also found my apartment which is pretty hard to find .", "masks": [2, 6, 7, 8, 10], "label": "label"}
+{"content": ", , , and .", "line": "very helpful , hospitable , knowledgeable , and informative .", "masks": [0, 1, 3, 5, 8], "label": "label"}
+{"content": "it 's located in a part of scottsdale and .", "line": "it 's located in a great part of scottsdale and was really accommodating .", "masks": [5, 10, 11, 12], "label": "label"}
+{"content": "but it 's out .", "line": "but it 's worth seeking out .", "masks": [3, 4], "label": "label"}
+{"content": "staff , quick service and and !", "line": "super friendly staff , quick service and amazing and simple food done right !", "masks": [0, 1, 7, 9, 10, 11, 12], "label": "label"}
+{"content": "and the associates there all customer and !", "line": "great prices and the associates there are all very customer friendly and helpful !", "masks": [0, 1, 6, 8, 10, 12], "label": "label"}
+{"content": "and i my sugar , the top sundae !", "line": "and i had my sugar bowl favorite , the top hat sundae !", "masks": [2, 5, 6, 10], "label": "label"}
+{"content": ", selection .", "line": "great prices , great selection .", "masks": [0, 1, 3], "label": "label"}
+{"content": "and service !", "line": "very good food and service !", "masks": [0, 1, 2], "label": "label"}
+{"content": "this the yarn store in the metro area .", "line": "this is the best yarn store in the metro area .", "masks": [1, 3], "label": "label"}
+{"content": "lunch specials and staff .", "line": "great lunch specials and awesome staff .", "masks": [0, 4], "label": "label"}
+{"content": "and every .", "line": "and have enjoyed every last bite .", "masks": [1, 2, 4, 5], "label": "label"}
+{"content": "matter what i .", "line": "food is always amazing no matter what i order .", "masks": [0, 1, 2, 3, 4, 8], "label": "label"}
+{"content": "they and priced .", "line": "they were extremely friendly and reasonably priced .", "masks": [1, 2, 3, 5], "label": "label"}
+{"content": "selection of parts and and .", "line": "good selection of parts and accessories and reasonable prices .", "masks": [0, 5, 7, 8], "label": "label"}
+{"content": "the here and .", "line": "the food is great here and very authentic .", "masks": [1, 2, 3, 6, 7], "label": "label"}
+{"content": ", , and an mexican cantina .", "line": "great food , low prices , and an authentic mexican cantina vibe .", "masks": [0, 1, 3, 4, 8, 11], "label": "label"}
+{"content": "this , out .", "line": "this place offers solid , delicious take out .", "masks": [1, 2, 3, 5, 6], "label": "label"}
+{"content": "it 's a experience and each you .", "line": "it 's a whole new experience and new flavors each time you go .", "masks": [3, 4, 7, 8, 10, 12], "label": "label"}
+{"content": "myself and family / to them for years !", "line": "myself and family / friends have been going to them for years !", "masks": [4, 5, 6, 7], "label": "label"}
+{"content": "they 've some items on the menu since my visit .", "line": "they 've added some new items on the menu since my last visit .", "masks": [2, 4, 11], "label": "label"}
+{"content": "they it out for you and .", "line": "they bring it out front for you and are very helpful .", "masks": [1, 4, 8, 9, 10], "label": "label"}
+{"content": "to for with multiple tvs and a crowd .", "line": "great place to go for games with multiple tvs and a lively crowd .", "masks": [0, 1, 3, 5, 11], "label": "label"}
+{"content": "all of my clothes in !", "line": "all of my clothes are returned in sparkling condition !", "masks": [4, 5, 7, 8], "label": "label"}
+{"content": "one of veal i 've ever and .", "line": "one of best veal dishes i 've ever had and reasonable prices .", "masks": [2, 4, 8, 10, 11], "label": "label"}
+{"content": "the , steak and hummus a .", "line": "the food was good , steak bites and hummus plate a must .", "masks": [1, 2, 3, 6, 9, 11], "label": "label"}
+{"content": "as pizza this with the i 've ever .", "line": "as far as pizza goes this ranks with the best i 've ever eaten .", "masks": [0, 1, 4, 6, 9, 13], "label": "label"}
+{"content": "service and .", "line": "really good service and food .", "masks": [0, 1, 4], "label": "label"}
+{"content": "their sandwiches .", "line": "their sandwiches were really tasty .", "masks": [2, 3, 4], "label": "label"}
+{"content": "a and atmosphere .", "line": "always a fun and friendly atmosphere .", "masks": [0, 2, 4], "label": "label"}
+{"content": "i 'm a drive-through customer at this location .", "line": "i 'm a regular drive-through customer at this location .", "masks": [3], "label": "label"}
+{"content": "it so ; i 've anything like it !", "line": "it was so delicious ; i 've never had anything like it !", "masks": [1, 3, 7, 8], "label": "label"}
+{"content": "something i will again !", "line": "definitely something i will have again !", "masks": [0, 4], "label": "label"}
+{"content": "the california burrito also a burrito .", "line": "the california burrito was also a great burrito .", "masks": [3, 6], "label": "label"}
+{"content": "the woman who me and .", "line": "the woman who helped me today was very friendly and knowledgeable .", "masks": [3, 5, 6, 7, 8, 10], "label": "label"}
+{"content": "the service , , and the .", "line": "the service was great , food delicious , and the value impeccable .", "masks": [2, 3, 5, 6, 10, 11], "label": "label"}
+{"content": "the menu and the .", "line": "loved the menu and the drinks .", "masks": [0, 5], "label": "label"}
+{"content": "pei wei , service , and seating .", "line": "pei wei has fair prices , fast service , and wonderful outdoor seating .", "masks": [2, 3, 4, 6, 10, 11], "label": "label"}
+{"content": "it a experience !", "line": "it was a great experience !", "masks": [1, 3], "label": "label"}
+{"content": "his a visit .", "line": "his humor makes a routine visit entertaining .", "masks": [1, 2, 4, 6], "label": "label"}
+{"content": "this and will back .", "line": "love this place and will keep coming back .", "masks": [0, 2, 5, 6], "label": "label"}
+{"content": "we and every staff member and .", "line": "we were sat right away and every staff member was extremely friendly and happy .", "masks": [1, 2, 3, 4, 9, 10, 11, 13], "label": "label"}
+{"content": "will back and to .", "line": "will definitely go back and recommend to friends .", "masks": [1, 2, 5, 7], "label": "label"}
+{"content": "their calzone gigantic !", "line": "their small calzone is really gigantic !", "masks": [1, 3, 4], "label": "label"}
+{"content": "the also .", "line": "the food is also very good .", "masks": [1, 2, 4, 5], "label": "label"}
+{"content": "the margaritas also and the churros with ice also .", "line": "the margaritas were also tasted and the churros with ice cream was also outstanding .", "masks": [2, 4, 10, 11, 13], "label": "label"}
+{"content": "i the ahi tuna .", "line": "i highly recommend the ahi tuna .", "masks": [1, 2], "label": "label"}
+{"content": "she so , and .", "line": "she was so patient , kind and understanding .", "masks": [1, 3, 5, 7], "label": "label"}
+{"content": "heck , the pizza .", "line": "heck , even the pizza is decent .", "masks": [2, 5, 6], "label": "label"}
+{"content": "to and .", "line": "cooked to perfection and very flavorful .", "masks": [0, 2, 4, 5], "label": "label"}
+{"content": "the crew and .", "line": "the crew was very friendly and accommodating .", "masks": [2, 3, 4, 6], "label": "label"}
+{"content": "the sushi here and i the cucumber salad .", "line": "the sushi here is great and i love the cucumber salad .", "masks": [3, 4, 7], "label": "label"}
+{"content": "if you to out transformed this your !", "line": "if you are looking to walk out transformed this is your place !", "masks": [2, 3, 5, 9, 11], "label": "label"}
+{"content": "she chose a that incredible with my skin , .", "line": "she chose a great color that looks incredible with my skin , too .", "masks": [3, 4, 6, 12], "label": "label"}
+{"content": "a to !", "line": "a great place to watch sports !", "masks": [1, 2, 4, 5], "label": "label"}
+{"content": "this pizza , salad and pasta in east .", "line": "this cute little pizza , salad and pasta place in east chandler is great .", "masks": [1, 2, 8, 11, 12, 13], "label": "label"}
+{"content": "the in the alley behind it !", "line": "the art in the alley behind it is cool too !", "masks": [1, 7, 8, 9], "label": "label"}
+{"content": "but a tucson native this via my tastebuds .", "line": "but being a tucson native this place brought nostalgia via my tastebuds .", "masks": [1, 6, 7, 8], "label": "label"}
+{"content": "parmesan i ever .", "line": "best chicken parmesan i have ever had .", "masks": [0, 1, 4, 6], "label": "label"}
+{"content": "customer service there .", "line": "customer service was great there .", "masks": [2, 3], "label": "label"}
+{"content": "fun to a on tv and up w/ people .", "line": "fun place to catch a game on tv and catch up w/ people .", "masks": [1, 3, 5, 9], "label": "label"}
+{"content": "most chinese !", "line": "most delicious authentic chinese food !", "masks": [1, 2, 4], "label": "label"}
+{"content": "the and guacamole !", "line": "the chips and guacamole were excellent too !", "masks": [1, 4, 5, 6], "label": "label"}
+{"content": "this when you can outside .", "line": "this place is wonderful when you can actually sit outside .", "masks": [1, 2, 3, 7, 8], "label": "label"}
+{"content": "a to back a few beers after a .", "line": "a great little spot to throw back a few beers after a rough day .", "masks": [1, 2, 3, 5, 12, 13], "label": "label"}
+{"content": "i this to others !", "line": "i definitely recommend this place to others !", "masks": [1, 2, 4], "label": "label"}
+{"content": "well the and the of it .", "line": "well the food was great and the price of it was even better .", "masks": [2, 3, 4, 7, 10, 11, 12], "label": "label"}
+{"content": "i the waiter 's of the veal carolina and it !", "line": "i took the waiter 's recommendation of the veal carolina and it was super !", "masks": [1, 5, 12, 13], "label": "label"}
+{"content": "deals and staff .", "line": "super good deals and very friendly staff .", "masks": [0, 1, 4, 5], "label": "label"}
+{"content": "their lasagna and its the ive ever .", "line": "tried their lasagna and its the best ive ever had .", "masks": [0, 6, 9], "label": "label"}
+{"content": "this edgy and fun .", "line": "this place is edgy and fun .", "masks": [1, 2], "label": "label"}
+{"content": "to a as every seat a seat !", "line": "fantastic place to see a show as every seat is a great seat !", "masks": [0, 1, 3, 5, 9, 11], "label": "label"}
+{"content": "she and i what she !", "line": "she was absolutely fantastic and i love what she did !", "masks": [1, 2, 3, 6, 9], "label": "label"}
+{"content": "the hour crowd here can fun on .", "line": "the happy hour crowd here can be fun on occasion .", "masks": [1, 6, 9], "label": "label"}
+{"content": "but service .", "line": "very busy but very good service .", "masks": [0, 1, 3, 4], "label": "label"}
+{"content": "out or in sushi !", "line": "best take out or eat in sushi !", "masks": [0, 1, 4], "label": "label"}
+{"content": "i a experience every from to finish .", "line": "i have had a great experience every time from start to finish .", "masks": [1, 2, 4, 7, 9], "label": "label"}
+{"content": "he and for his customers .", "line": "he is very thorough and genuinely cares for his customers .", "masks": [1, 2, 3, 5, 6], "label": "label"}
+{"content": "plus he , how could you ?", "line": "plus he has amazing prices , how could you not go ?", "masks": [2, 3, 4, 9, 10], "label": "label"}
+{"content": "the staff and on the ball .", "line": "the staff are very friendly and on the ball .", "masks": [2, 3, 4], "label": "label"}
+{"content": "all that that with beers .", "line": "all had that satisfying grease flavor that washed down well with beers .", "masks": [1, 3, 4, 5, 7, 8, 9], "label": "label"}
+{"content": "i a in and !", "line": "i was a walk in and got helped right away !", "masks": [1, 3, 6, 7, 8, 9], "label": "label"}
+{"content": "if you in the bar they the bartender in town .", "line": "if you sit in the bar they have the best bartender in town .", "masks": [2, 7, 9], "label": "label"}
+{"content": "i this shop .", "line": "i highly recommend this shop .", "masks": [1, 2], "label": "label"}
+{"content": "their staff and .", "line": "their staff is knowledgeable and informative .", "masks": [2, 3, 5], "label": "label"}
+{"content": "it a , with to and .", "line": "it is a cool place , with lots to see and try .", "masks": [1, 3, 4, 7, 9, 11], "label": "label"}
+{"content": "they , , and quick !", "line": "they are super friendly , very helpful , and amazingly quick !", "masks": [1, 2, 3, 5, 6, 9], "label": "label"}
+{"content": "i my car detailed here and it !", "line": "i got my car detailed here and it looked amazing !", "masks": [1, 8, 9], "label": "label"}
+{"content": "dr. hall so and .", "line": "dr. hall is so kind and gentle .", "masks": [2, 4, 6], "label": "label"}
+{"content": "i to it up , such a portion .", "line": "i had to box it up even , such a huge portion .", "masks": [1, 3, 6, 10], "label": "label"}
+{"content": "the all .", "line": "the food all looked great .", "masks": [1, 3, 4], "label": "label"}
+{"content": "the menudo here .", "line": "the menudo here is perfect .", "masks": [3, 4], "label": "label"}
+{"content": "the crispy mango fish .", "line": "the crispy mango fish was very tasty .", "masks": [4, 5, 6], "label": "label"}
+{"content": "the , , and desserts .", "line": "now the food , drinks , and desserts are amazing .", "masks": [0, 2, 4, 8, 9], "label": "label"}
+{"content": "the carne asada burrito !", "line": "the carne asada burrito is awesome !", "masks": [4, 5], "label": "label"}
+{"content": "this the .", "line": "this is the perfect date night .", "masks": [1, 3, 4, 5], "label": "label"}
+{"content": "selection of to .", "line": "nice selection of games to play .", "masks": [0, 3, 5], "label": "label"}
+{"content": "the grilled artichokes !", "line": "the grilled artichokes are wonderful !", "masks": [3, 4], "label": "label"}
+{"content": "the adovada but and the chocolate bread .", "line": "the adovada is hot but wonderful and the chocolate bread pudding is amazing .", "masks": [2, 3, 5, 10, 11, 12], "label": "label"}
+{"content": "and to and your .", "line": "fun and inexpensive way to enjoy and relax your day .", "masks": [0, 2, 3, 5, 7, 9], "label": "label"}
+{"content": "i it and will back !", "line": "i loved it and will definitely be back !", "masks": [1, 5, 6], "label": "label"}
+{"content": "at bar that we reservations at door .", "line": "got screwed at bar that we made reservations at next door .", "masks": [0, 1, 6, 9], "label": "label"}
+{"content": "staff and manager .", "line": "very friendly staff and manager .", "masks": [0, 1], "label": "label"}
+{"content": "my and and !", "line": "love my cut and color and sage is amazing !", "masks": [0, 2, 4, 6, 7, 8], "label": "label"}
+{"content": "spectrum of ages and .", "line": "wide spectrum of ages and races .", "masks": [0, 5], "label": "label"}
+{"content": "a and the at their restaurant !", "line": "had a blast and the food at their restaurant was excellent !", "masks": [0, 2, 5, 9, 10], "label": "label"}
+{"content": "at no cost - service !", "line": "at no cost - great service !", "masks": [4], "label": "label"}
+{"content": "their steak & salsa burrito and .", "line": "their steak & salsa burrito was very very good and really big too .", "masks": [5, 6, 7, 8, 10, 11, 12], "label": "label"}
+{"content": "tacos with .", "line": "blue corn tacos with chicken were excellent .", "masks": [0, 1, 4, 5, 6], "label": "label"}
+{"content": "to and .", "line": "plenty to eat and amazing flavor .", "masks": [0, 2, 4, 5], "label": "label"}
+{"content": "i will to the roaring fork !", "line": "i definitely will return to the roaring fork !", "masks": [1, 3], "label": "label"}
+{"content": "it will with you all .", "line": "it will stay with you all day .", "masks": [2, 6], "label": "label"}
+{"content": "the hummus creamy and .", "line": "the hummus is ridiculously creamy and delicious .", "masks": [2, 3, 6], "label": "label"}
+{"content": "for a dinner !", "line": "good place for a romantic dinner !", "masks": [0, 1, 4], "label": "label"}
+{"content": "the owner us and us !", "line": "the owner knows us and treats us very well !", "masks": [2, 5, 7, 8], "label": "label"}
+{"content": "i can i so we will to az .", "line": "i can honestly say i am so glad we will be moving to az .", "masks": [2, 3, 5, 7, 10, 11], "label": "label"}
+{"content": "the chile mac and cheese incredible !", "line": "the green chile mac and cheese was incredible !", "masks": [1, 6], "label": "label"}
+{"content": "i auto body .", "line": "i highly recommend impact auto body .", "masks": [1, 2, 3], "label": "label"}
+{"content": ", service .", "line": "great quality , great service .", "masks": [0, 1, 3], "label": "label"}
+{"content": "and i the gyro sandwich every and its the .", "line": "and i get the gyro sandwich every time and its the best .", "masks": [2, 7, 11], "label": "label"}
+{"content": "i this bakery !", "line": "i highly recommend this bakery !", "masks": [1, 2], "label": "label"}
+{"content": "their and their .", "line": "love their food and their passion .", "masks": [0, 2, 5], "label": "label"}
+{"content": "i this salon and the , .", "line": "i highly recommend this salon and the wonderfully talented stylist , angel .", "masks": [1, 2, 7, 8, 9, 11], "label": "label"}
+{"content": "they a of for sushi !", "line": "they have a lot of choices for sushi lovers !", "masks": [1, 3, 5, 8], "label": "label"}
+{"content": ", .", "line": "reasonable price , bottom line guaranteed .", "masks": [0, 1, 3, 4, 5], "label": "label"}
+{"content": "homemade tortillas so !", "line": "homemade tortillas are so good !", "masks": [2, 4], "label": "label"}
+{"content": "the the and it .", "line": "the prices were the best and worth it .", "masks": [1, 2, 4, 6], "label": "label"}
+{"content": ", service .", "line": "amazing food , great service .", "masks": [0, 1, 3], "label": "label"}
+{"content": "this the i ever !", "line": "this was the best i have ever had !", "masks": [1, 3, 5, 7], "label": "label"}
+{"content": "this one in scottsdale .", "line": "this is one place in scottsdale casual dress is acceptable .", "masks": [1, 3, 6, 7, 8, 9], "label": "label"}
+{"content": "i also like the that they orange .", "line": "i also like the fact that they have fresh squeezed orange juice .", "masks": [4, 7, 8, 9, 11], "label": "label"}
+{"content": "the octopus my !", "line": "the octopus sashimi is my favorite !", "masks": [2, 3, 5], "label": "label"}
+{"content": "this a location , especially because of m !", "line": "this is a fantastic location , especially because of teresa m !", "masks": [1, 3, 9], "label": "label"}
+{"content": "i with their service .", "line": "i was pleased with their service .", "masks": [1, 2], "label": "label"}
+{"content": "you so much for the and the and .", "line": "you get so much for the price and the food is fresh and delicious .", "masks": [1, 6, 9, 10, 11, 13], "label": "label"}
+{"content": "they so and .", "line": "they are so fresh and yummy .", "masks": [1, 3, 5], "label": "label"}
+{"content": "the salads and crispy .", "line": "the salads were fresh and crispy .", "masks": [2, 3], "label": "label"}

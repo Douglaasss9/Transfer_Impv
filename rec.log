@@ -1,0 +1,47 @@
+/home/vesper/anaconda3/envs/PLM/lib/python3.8/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+02/27/2023 17:38:42 - INFO - pytorch_pretrained_bert.modeling -   loading archive file /home/vesper/.pytorch_pretrained_bert/bert-base-uncased.tar.gz
+02/27/2023 17:38:42 - INFO - pytorch_pretrained_bert.modeling -   extracting archive file /home/vesper/.pytorch_pretrained_bert/bert-base-uncased.tar.gz to temp dir /tmp/tmpbamlgm4w
+02/27/2023 17:38:44 - INFO - pytorch_pretrained_bert.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+02/27/2023 17:38:45 - INFO - pytorch_pretrained_bert.modeling -   Weights from pretrained model not used in BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+02/27/2023 17:38:46 - INFO - pytorch_pretrained_bert.modeling -   loading archive file /home/vesper/.pytorch_pretrained_bert/bert-base-uncased.tar.gz
+02/27/2023 17:38:46 - INFO - pytorch_pretrained_bert.modeling -   extracting archive file /home/vesper/.pytorch_pretrained_bert/bert-base-uncased.tar.gz to temp dir /tmp/tmppxpbbiku
+02/27/2023 17:38:48 - INFO - pytorch_pretrained_bert.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+02/27/2023 17:38:50 - INFO - pytorch_pretrained_bert.modeling -   Weights from pretrained model not used in BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+torch.Size([2000, 42])
+/media/Mors/da/usr/vesper/SeafoodMarket/MLM_transfer/rnnattn_wd.py:35: UserWarning: nn.init.xavier_uniform is now deprecated in favor of nn.init.xavier_uniform_.
+  nn.init.xavier_uniform(m.weight.data, gain=nn.init.calculate_gain('relu'))
+Traceback (most recent call last):
+  File "train_Ling.py", line 142, in <module>
+    main()
+  File "train_Ling.py", line 139, in main
+    clpos = LinearClassifier()
+  File "train_Ling.py", line 40, in __init__
+    self.softmax = F.softmax()
+TypeError: softmax() missing 1 required positional argument: 'input'
