@@ -74,7 +74,7 @@ to run the finetune process.
 
 #### Pipeline
 
-![3950534006b568cb4ab17496503d153](https://github.com/Douglaasss9/Transfer_Impv/blob/main/Transfer%20Impv.assets/3950534006b568cb4ab17496503d153.png)
+![3950534006b568cb4ab17496503d153](https://github.com/Douglaasss9/Transfer_Impv/raw/main/Transfer%20Impv.assets/3950534006b568cb4ab17496503d153.png)
 
 #### Classifier Model
 
